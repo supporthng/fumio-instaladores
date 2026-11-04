@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v2.0",
+  "titulo": "Fumio 2.0",
+  "notas": "Fumio 2.0: puesta en marcha guiada, modo prueba, rutas en vivo, avisos a clientes por correo, recordatorios de cobro, productividad de técnicos, saldos iniciales con proveedores, bitácora, permisos por acción e inicio con indicadores.",
+  "archivos": [
+    {
+      "nombre": "Fumio-Setup-2.0.exe",
+      "sha256": "6515f565a9a36867456b59d7a903a5690e10c7605edaf095d3400a335957496a",
+      "partes": [
+        "partes/Fumio-Setup-2.0.exe.001",
+        "partes/Fumio-Setup-2.0.exe.002"
+      ]
+    },
+    {
+      "nombre": "Fumio-Terminal-Setup-2.0.exe",
+      "sha256": "000ba7332203241f3e975101b7f587edb93c7d19d1b98c17b320900cc1829d5b",
+      "partes": [
+        "partes/Fumio-Terminal-Setup-2.0.exe.001",
+        "partes/Fumio-Terminal-Setup-2.0.exe.002"
+      ]
+    }
+  ]
+}

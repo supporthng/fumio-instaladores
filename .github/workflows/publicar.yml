@@ -1,0 +1,38 @@
+# Arma los instaladores de Fumio a partir de sus partes y los publica como «release».
+# Las partes las sube el proceso de publicación (cada archivo de GitHub debe pesar < 100 MB).
+name: Publicar instaladores
+on:
+  push:
+    branches: [main]
+    paths: [publicar.json]
+permissions:
+  contents: write
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Armar y publicar
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          etiqueta=$(jq -r .etiqueta publicar.json)
+          titulo=$(jq -r .titulo publicar.json)
+          jq -r '.notas // ""' publicar.json > notas.txt
+          mkdir -p salida
+          for i in $(seq 0 $(( $(jq '.archivos | length' publicar.json) - 1 ))); do
+            nombre=$(jq -r ".archivos[$i].nombre" publicar.json)
+            sha=$(jq -r ".archivos[$i].sha256" publicar.json)
+            jq -r ".archivos[$i].partes[]" publicar.json | while read -r p; do cat "$p"; done > "salida/$nombre"
+            echo "$sha  salida/$nombre" | sha256sum -c -
+          done
+          for viejo in $(jq -r '.borrar[]? // empty' publicar.json); do
+            gh release delete "$viejo" --yes --cleanup-tag || true
+          done
+          [ "$(jq '.archivos | length' publicar.json)" = "0" ] && exit 0
+          if gh release view "$etiqueta" >/dev/null 2>&1; then
+            gh release upload "$etiqueta" salida/* --clobber
+          else
+            gh release create "$etiqueta" salida/* --title "$titulo" --notes-file notas.txt
+          fi
