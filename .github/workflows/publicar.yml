@@ -4,7 +4,7 @@ name: Publicar instaladores
 on:
   push:
     branches: [main]
-    paths: [publicar.json]
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
