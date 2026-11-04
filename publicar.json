@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v2.3",
+  "titulo": "Fumio 2.3",
+  "notas": "FumiPOS 2.3: nuevo nombre (antes Fumio) en pantallas, ventanas, accesos directos e instalador; códigos de licencia FUMIPOS-XXXX (los FUMIO- siguen valiendo); acceso por internet con fumipos.app.",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-2.3.exe",
+      "sha256": "b8e2b96cdca4cefb5ccedd5dc23a33c59335221fa3d37538164b947109c65bef",
+      "partes": [
+        "partes/FumiPOS-Setup-2.3.exe.001",
+        "partes/FumiPOS-Setup-2.3.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-2.3.exe",
+      "sha256": "2a4b880fb2269832c44810e7982891420657815965f3fa174ff8db9dc37741db",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-2.3.exe.001",
+        "partes/FumiPOS-Terminal-Setup-2.3.exe.002"
+      ]
+    }
+  ]
+}
