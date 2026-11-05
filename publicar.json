@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v2.8",
+  "titulo": "Fumio 2.8",
+  "notas": "Terminal remota con código de conexión: la terminal escribe el código de su oficina y encuentra el servidor en la red o por internet. Corrige el inicio de sesión desde las terminales y por internet. Botón «Traer la llave ahora» en Acceso por internet y nombre del equipo al pedir permiso.",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-2.8.exe",
+      "sha256": "07b471312da6759cf8f2d60b800d4a91ba311373c28bf6352bf1363e7ef1eda2",
+      "partes": [
+        "partes/FumiPOS-Setup-2.8.exe.001",
+        "partes/FumiPOS-Setup-2.8.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-2.8.exe",
+      "sha256": "cbda479c08c0d4a15100e80842ce91e4213bed36bc85e37ebb45c79b4814ea66",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-2.8.exe.001",
+        "partes/FumiPOS-Terminal-Setup-2.8.exe.002"
+      ]
+    }
+  ]
+}
