@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v3.3",
+  "titulo": "Fumio 3.3",
+  "notas": "Trae tus datos: migra clientes, servicios, proveedores y saldos desde tu sistema anterior (analiza la base y reconoce Monica). Desde una terminal ahora se puede actualizar el servidor.",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-3.3.exe",
+      "sha256": "818c99bb852b14b543b299551a411678fff75bff9e888ee968f3fdb926d2a90f",
+      "partes": [
+        "partes/FumiPOS-Setup-3.3.exe.001",
+        "partes/FumiPOS-Setup-3.3.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-3.3.exe",
+      "sha256": "b170186f762cd256cb91ea8a3dee55cc41e6af8fa1788d77158ca2fe4cc3a926",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-3.3.exe.001",
+        "partes/FumiPOS-Terminal-Setup-3.3.exe.002"
+      ]
+    }
+  ]
+}
