@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v3.4",
+  "titulo": "Fumio 3.4",
+  "notas": "App del administrador en el celular (rutas, asignar y agendar). Tipos de servicio al agendar. Rol Asistente. Enviar las apps por WhatsApp. Aviso «el técnico va en camino». Botón para agregar las apps al inicio.",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-3.4.exe",
+      "sha256": "c49dd48b20fe86d25ba7bb9f206ffa18347d0f1956170a47819cdd4310fd937f",
+      "partes": [
+        "partes/FumiPOS-Setup-3.4.exe.001",
+        "partes/FumiPOS-Setup-3.4.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-3.4.exe",
+      "sha256": "08e7638316469085dfd36bdd75ceba6c856d21d8f67f7d4a1a82b036ba22136f",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-3.4.exe.001",
+        "partes/FumiPOS-Terminal-Setup-3.4.exe.002"
+      ]
+    }
+  ]
+}
