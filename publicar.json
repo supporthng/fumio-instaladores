@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v4.1",
+  "titulo": "Fumio 4.1",
+  "notas": "Servicios recurrentes (varios días por semana, pausar). Aviso de la ruta del día a técnicos y oficina. Entrada por la dirección de la empresa eligiendo Técnico, Administrador, Supervisor o Asistente. Botón regresar en todas las pantallas. Medidor de velocidad. Razón social desde Monica. Al abrir la app de escritorio pide usuario y contraseña.",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-4.1.exe",
+      "sha256": "5180caeb5e879661a95815823aa1320b28e69da03b7011a5eaeb3285719db568",
+      "partes": [
+        "partes/FumiPOS-Setup-4.1.exe.001",
+        "partes/FumiPOS-Setup-4.1.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-4.1.exe",
+      "sha256": "a0d4d0f3410719bcfb6b286fe53b0eeacd9b59cc3561c65b34d7ab8ddfb5b862",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-4.1.exe.001",
+        "partes/FumiPOS-Terminal-Setup-4.1.exe.002"
+      ]
+    }
+  ]
+}
