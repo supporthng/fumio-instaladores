@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v3.9",
+  "titulo": "Fumio 3.9",
+  "notas": "Factura solo con las series de comprobantes activas (e-CF: propone E31/E32). Menú reorganizado por secciones con pestañas y Configuración en cuadros. Cambio de pestaña al instante. Las listas de clientes y artículos no se abren solas. Técnicos con contraseña de 4. Al cerrar la ventana del servidor se cierra la sesión (requiere instalador completo). Productos de inventario al traer datos de Monica. Secuencias compactas.",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-3.9.exe",
+      "sha256": "2fee9c47c27534065b01979384a48f2ce7296175fbce9ab7d805c507da08dbf0",
+      "partes": [
+        "partes/FumiPOS-Setup-3.9.exe.001",
+        "partes/FumiPOS-Setup-3.9.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-3.9.exe",
+      "sha256": "9c7e146a52f0dbf8b57adb2feef04094201dc68dd6851e17a4f4cdaf6d176749",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-3.9.exe.001",
+        "partes/FumiPOS-Terminal-Setup-3.9.exe.002"
+      ]
+    }
+  ]
+}
