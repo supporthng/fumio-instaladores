@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v4.2",
+  "titulo": "Fumio 4.2",
+  "notas": "Seguridad: cabeceras, límite de peticiones y freno de intentos por equipo. Contraseña inicial de 4 y cambio obligatorio en el primer acceso. El buscador del inicio encuentra las pantallas de Configuración.",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-4.2.exe",
+      "sha256": "974157626c7a3664b44bcfc6e872c63925e39405f3a8fe3ad2f2e639d658af7f",
+      "partes": [
+        "partes/FumiPOS-Setup-4.2.exe.001",
+        "partes/FumiPOS-Setup-4.2.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-4.2.exe",
+      "sha256": "3a2c4ee1bfdf1d95f69b13cec6eb8e864a67d5260bb2b34290128eded5224f91",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-4.2.exe.001",
+        "partes/FumiPOS-Terminal-Setup-4.2.exe.002"
+      ]
+    }
+  ]
+}
