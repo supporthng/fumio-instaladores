@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v3.5",
+  "titulo": "Fumio 3.5",
+  "notas": "e-CF por MSeller (proveedor PSFE). Al facturar, busca en el padrón de la DGII por RNC, cédula o nombre y crea el cliente con sus datos. El servidor sigue funcionando al cerrar la ventana (requiere reinstalar el servidor con el instalador 3.5).",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-3.5.exe",
+      "sha256": "b7c2db30ca4475789a2e8f98be4e4aa4076048e3532ea96873ab6cda133942e7",
+      "partes": [
+        "partes/FumiPOS-Setup-3.5.exe.001",
+        "partes/FumiPOS-Setup-3.5.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-3.5.exe",
+      "sha256": "db21bf7b938eba8d941abcf89ae1601f233d471e75347c09d45369908a26cc59",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-3.5.exe.001",
+        "partes/FumiPOS-Terminal-Setup-3.5.exe.002"
+      ]
+    }
+  ]
+}
