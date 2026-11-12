@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v4.4",
+  "titulo": "Fumio 4.4",
+  "notas": "App del administrador: asignar un servicio desde cada técnico y desde el día vacío.",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-4.4.exe",
+      "sha256": "468c9ba6e2724b403cef434003e933d36acd0371fe80d1ed9a89481b601cd429",
+      "partes": [
+        "partes/FumiPOS-Setup-4.4.exe.001",
+        "partes/FumiPOS-Setup-4.4.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-4.4.exe",
+      "sha256": "1873e1c1e8c3168b9cf0d547b94c363b5d36d060c0ef213e86000b338128262c",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-4.4.exe.001",
+        "partes/FumiPOS-Terminal-Setup-4.4.exe.002"
+      ]
+    }
+  ]
+}
