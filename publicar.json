@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v3.7",
+  "titulo": "Fumio 3.7",
+  "notas": "e-CF por MSeller desde el portal del proveedor (la cuenta llega sola al validar la licencia). Detecta el ambiente de la API Key de MSeller. Pantalla de factura más compacta.",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-3.7.exe",
+      "sha256": "2ece8ef738ea4142d03a249d29f9c19916c28ef5bdcfe5d86e1daf504be69c9d",
+      "partes": [
+        "partes/FumiPOS-Setup-3.7.exe.001",
+        "partes/FumiPOS-Setup-3.7.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-3.7.exe",
+      "sha256": "4d0e5c58d7bcd504ece516ab43be71cc6803a5ec245d5bcbe20757d7c5d04a3f",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-3.7.exe.001",
+        "partes/FumiPOS-Terminal-Setup-3.7.exe.002"
+      ]
+    }
+  ]
+}
