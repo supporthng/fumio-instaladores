@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v3.6",
+  "titulo": "Fumio 3.6",
+  "notas": "Planes: cada plan define qué módulos trae y si incluye facturación electrónica; el sistema se ajusta al plan de la licencia.",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-3.6.exe",
+      "sha256": "720457043914de40c19861dbc6765dd568f810e96ce36fd60dbc67e93f9b8e71",
+      "partes": [
+        "partes/FumiPOS-Setup-3.6.exe.001",
+        "partes/FumiPOS-Setup-3.6.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-3.6.exe",
+      "sha256": "0a90f2b43911114d65f73c48578568695b4cf238bc9fc1c4452f1f2ef9be901e",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-3.6.exe.001",
+        "partes/FumiPOS-Terminal-Setup-3.6.exe.002"
+      ]
+    }
+  ]
+}
