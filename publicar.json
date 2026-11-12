@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v4.3",
+  "titulo": "Fumio 4.3",
+  "notas": "Arreglo: íconos, logo y avisos al celular que no cargaban desde la 4.1. Guía de Agregar a inicio para iOS 26. WhatsApp con usuario y contraseña temporal y página de bienvenida. Búsqueda al escribir en las listas. Enlace de Google Maps en la ubicación de la sucursal.",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-4.3.exe",
+      "sha256": "0f4891665d2b9f6ae1b8c0f6877fb6f5b0959e9c3bafd43024eb60d098cb3341",
+      "partes": [
+        "partes/FumiPOS-Setup-4.3.exe.001",
+        "partes/FumiPOS-Setup-4.3.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-4.3.exe",
+      "sha256": "d7b22adbe33a74d0896cbf697252c7ebe38464778e939969589794bbfd84ce44",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-4.3.exe.001",
+        "partes/FumiPOS-Terminal-Setup-4.3.exe.002"
+      ]
+    }
+  ]
+}
