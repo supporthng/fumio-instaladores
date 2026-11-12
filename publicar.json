@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v4.0",
+  "titulo": "Fumio 4.0",
+  "notas": "Inicio con los cuadros de los módulos principales (vista Menú por defecto). e-CF en Pruebas: vencimiento de secuencia 31-12-2028 automático. Mensajes de secuencia y crédito con la ruta nueva de Configuración.",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-4.0.exe",
+      "sha256": "5fbbd3500cdc05456b955c6644aa6d41da37324b48ef83dff0c306dcc358cc94",
+      "partes": [
+        "partes/FumiPOS-Setup-4.0.exe.001",
+        "partes/FumiPOS-Setup-4.0.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-4.0.exe",
+      "sha256": "e1f225b836d79b2cdb41ad75d40521613996e734fc825b04840c91a708e368db",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-4.0.exe.001",
+        "partes/FumiPOS-Terminal-Setup-4.0.exe.002"
+      ]
+    }
+  ]
+}
