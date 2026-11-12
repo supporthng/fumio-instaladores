@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v3.8",
+  "titulo": "Fumio 3.8",
+  "notas": "Más rápido (índice en cuentas por cobrar). Factura más compacta y lista de artículos visible con filtros. Código en los servicios (se importa desde Monica). e-CF serie E enlaza a su configuración.",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-3.8.exe",
+      "sha256": "7ccbf85d71fd1be138e47ac717ca5f4778d6a11dd056115ae0b32817e213633d",
+      "partes": [
+        "partes/FumiPOS-Setup-3.8.exe.001",
+        "partes/FumiPOS-Setup-3.8.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-3.8.exe",
+      "sha256": "3d8154a14fad72e7553519c008b5ccacd05599b0b8e9281017081b51a5f8a468",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-3.8.exe.001",
+        "partes/FumiPOS-Terminal-Setup-3.8.exe.002"
+      ]
+    }
+  ]
+}
