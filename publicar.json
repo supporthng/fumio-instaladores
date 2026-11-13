@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v4.5",
+  "titulo": "Fumio 4.5",
+  "notas": "Facturas sin comprobante sin pedir secuencia, reportes nuevos (cuentas por cobrar, facturas, clientes e inventario), elegir qué facturas cobrar y ventana al frente",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-4.5.exe",
+      "sha256": "ecf7a8cd9a60ed7d6ccb8c3f58643b05c461396d5a535c108556ec3a1fbb0c8d",
+      "partes": [
+        "partes/FumiPOS-Setup-4.5.exe.001",
+        "partes/FumiPOS-Setup-4.5.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-4.5.exe",
+      "sha256": "f97c88d7541cb7cbb45c86723d1812a30f86d3d0d4e8f986e7fdfaea4511c354",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-4.5.exe.001",
+        "partes/FumiPOS-Terminal-Setup-4.5.exe.002"
+      ]
+    }
+  ]
+}
