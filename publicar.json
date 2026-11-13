@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v4.8",
+  "titulo": "Fumio 4.8",
+  "notas": "Hora de llegada y de salida en la constancia",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-4.8.exe",
+      "sha256": "9f6a72e5e3b34bd90d2b12670f4714da97914c25d1629d0e109be5f89a134217",
+      "partes": [
+        "partes/FumiPOS-Setup-4.8.exe.001",
+        "partes/FumiPOS-Setup-4.8.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-4.8.exe",
+      "sha256": "285b4747ad036ea85722a72c08af3b86ae4cc8ddcbddef1f17b01569c6da7ada",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-4.8.exe.001",
+        "partes/FumiPOS-Terminal-Setup-4.8.exe.002"
+      ]
+    }
+  ]
+}
