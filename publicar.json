@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v5.6",
+  "titulo": "Fumio 5.6",
+  "notas": "Rutas agrupadas por fumigador, ordenadas por hora y más compactas",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-5.6.exe",
+      "sha256": "ddb695027c0c4002ea141eca6fcb949e38af1ac30457eb20443e7bb35e2d44b9",
+      "partes": [
+        "partes/FumiPOS-Setup-5.6.exe.001",
+        "partes/FumiPOS-Setup-5.6.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-5.6.exe",
+      "sha256": "46ae9348ddbfe41abe918784a3483a2cfafcd5b116fcc177811f58fa10539d3f",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-5.6.exe.001",
+        "partes/FumiPOS-Terminal-Setup-5.6.exe.002"
+      ]
+    }
+  ]
+}
