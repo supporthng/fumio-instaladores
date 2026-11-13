@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v5.1",
+  "titulo": "Fumio 5.1",
+  "notas": "Agendar: cliente y dirección primero, nuevas direcciones con tipo de estructura y ubicación; aviso de sin servidor más discreto",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-5.1.exe",
+      "sha256": "4977d87fa35fef495c6cd219f7995d3cd66814db486890979dd0c73f5e0da174",
+      "partes": [
+        "partes/FumiPOS-Setup-5.1.exe.001",
+        "partes/FumiPOS-Setup-5.1.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-5.1.exe",
+      "sha256": "e802f725f0ceb6c77410cbb6e9a2c4335466fc83121645318258fbe78724546f",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-5.1.exe.001",
+        "partes/FumiPOS-Terminal-Setup-5.1.exe.002"
+      ]
+    }
+  ]
+}
