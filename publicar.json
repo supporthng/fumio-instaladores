@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v5.3",
+  "titulo": "Fumio 5.3",
+  "notas": "Agendar: contacto y teléfono en cada dirección; la dirección nueva ya no sale repetida",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-5.3.exe",
+      "sha256": "0bfc4f18965e3c3c72d20c4aa5e1bf61386159d413957ca8880674eb81e684c5",
+      "partes": [
+        "partes/FumiPOS-Setup-5.3.exe.001",
+        "partes/FumiPOS-Setup-5.3.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-5.3.exe",
+      "sha256": "d2caa815ff526bb29bc79f91faaaa4cbf4c2bfb1e69b6287d85eab3558b05e19",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-5.3.exe.001",
+        "partes/FumiPOS-Terminal-Setup-5.3.exe.002"
+      ]
+    }
+  ]
+}
