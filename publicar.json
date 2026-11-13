@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v5.2",
+  "titulo": "Fumio 5.2",
+  "notas": "Nueva dirección: el enlace de ubicación llena el nombre del edificio o negocio y la dirección; un enlace sin coordenadas ya no impide guardar",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-5.2.exe",
+      "sha256": "6c990090dc89f9a6a95859c5722148850c71f51ebef0408dbf2adf29cf575547",
+      "partes": [
+        "partes/FumiPOS-Setup-5.2.exe.001",
+        "partes/FumiPOS-Setup-5.2.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-5.2.exe",
+      "sha256": "59a71e3a8b571533e43828f72279d01b18ef149d7fb0ae13541f7b2b4e02ed2a",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-5.2.exe.001",
+        "partes/FumiPOS-Terminal-Setup-5.2.exe.002"
+      ]
+    }
+  ]
+}
