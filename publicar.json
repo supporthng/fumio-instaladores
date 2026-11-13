@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v4.7",
+  "titulo": "Fumio 4.7",
+  "notas": "Confirmación de entregas en la app del técnico, galones por equipo, número de conduce y quién recibe en la constancia",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-4.7.exe",
+      "sha256": "c8c8356eecff40465e1ac53d96a07ab24e83c67af9d7ae33c9322fae96fb02c2",
+      "partes": [
+        "partes/FumiPOS-Setup-4.7.exe.001",
+        "partes/FumiPOS-Setup-4.7.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-4.7.exe",
+      "sha256": "05815883ed115a302e01d6dc85c9837309f90f9f86994a52cd2c1ee02e2b9acc",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-4.7.exe.001",
+        "partes/FumiPOS-Terminal-Setup-4.7.exe.002"
+      ]
+    }
+  ]
+}
