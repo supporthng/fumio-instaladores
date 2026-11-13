@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v4.6",
+  "titulo": "Fumio 4.6",
+  "notas": "Cobros con banco, cuenta, comprobante y fecha; editar facturas sin comprobante; corregir e-CF rechazados; foto y ficha técnica de productos; gastos más compacto",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-4.6.exe",
+      "sha256": "e69812553ed1ccd0242b81562be8c4bff7bdacb92092045fc89d74e508b2491a",
+      "partes": [
+        "partes/FumiPOS-Setup-4.6.exe.001",
+        "partes/FumiPOS-Setup-4.6.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-4.6.exe",
+      "sha256": "8b9c309c8864b69821c5d12cc222efa1b871f233ff0ab64c6c132681ac7eb50f",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-4.6.exe.001",
+        "partes/FumiPOS-Terminal-Setup-4.6.exe.002"
+      ]
+    }
+  ]
+}
