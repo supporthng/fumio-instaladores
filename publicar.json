@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v5.4",
+  "titulo": "Fumio 5.4",
+  "notas": "Enviar app: aviso y contraseña temporal si falta; leer sucursales de páginas con teléfonos 800/888 y nombres repetidos",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-5.4.exe",
+      "sha256": "088ae256c0e21321b2fe3bb4692ee56f14a46af2df78f883ed405ce27851631e",
+      "partes": [
+        "partes/FumiPOS-Setup-5.4.exe.001",
+        "partes/FumiPOS-Setup-5.4.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-5.4.exe",
+      "sha256": "afa1129b4c71a474a5c66e2c771e6c8ec6fb32cdea57b011100ccdf8e53c492c",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-5.4.exe.001",
+        "partes/FumiPOS-Terminal-Setup-5.4.exe.002"
+      ]
+    }
+  ]
+}
