@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v5.9",
+  "titulo": "Fumio 5.9",
+  "notas": "Certificado de fumigación con QR, firma y sello; informe mensual de control de plagas y roedores; estaciones internas y externas",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-5.9.exe",
+      "sha256": "d7f25baae09c38289ffc141a3fab94879a190ec1bd79e17b8b9abfb4dc0242ce",
+      "partes": [
+        "partes/FumiPOS-Setup-5.9.exe.001",
+        "partes/FumiPOS-Setup-5.9.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-5.9.exe",
+      "sha256": "bcacf1441cf9794c568b4e7cbd6b035fa47890ec6f70ac6c781c2acc26cd8c0a",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-5.9.exe.001",
+        "partes/FumiPOS-Terminal-Setup-5.9.exe.002"
+      ]
+    }
+  ]
+}
