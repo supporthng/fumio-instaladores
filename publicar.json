@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v6.0",
+  "titulo": "Fumio 6.0",
+  "notas": "Informe de control de plagas editable con estatus, diagnóstico y áreas; pasos para activar notificaciones del técnico; varios técnicos por servicio más claro",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-6.0.exe",
+      "sha256": "377a13bf23be13ca577cccba21e22d9b109a210f44f425852e007a46efc8f4c2",
+      "partes": [
+        "partes/FumiPOS-Setup-6.0.exe.001",
+        "partes/FumiPOS-Setup-6.0.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-6.0.exe",
+      "sha256": "bf521a73001300069d1f7c117c3f275add2231b8dec9447e2acd024beac95cf9",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-6.0.exe.001",
+        "partes/FumiPOS-Terminal-Setup-6.0.exe.002"
+      ]
+    }
+  ]
+}
