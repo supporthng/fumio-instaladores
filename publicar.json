@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v5.7",
+  "titulo": "Fumio 5.7",
+  "notas": "Acceso provisional de 24 horas para equipos por internet, varios técnicos por servicio, notas y observaciones, sin precios en rutas",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-5.7.exe",
+      "sha256": "d40f8ac944d4b090e41278a58dc2644ff18fe1cb27375c5a0f1da28f6e752acb",
+      "partes": [
+        "partes/FumiPOS-Setup-5.7.exe.001",
+        "partes/FumiPOS-Setup-5.7.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-5.7.exe",
+      "sha256": "a572344ac8d647a0473efff87e97c91e0e9db72979f80e04f803edb912905154",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-5.7.exe.001",
+        "partes/FumiPOS-Terminal-Setup-5.7.exe.002"
+      ]
+    }
+  ]
+}
