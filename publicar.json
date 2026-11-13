@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v4.9",
+  "titulo": "Fumio 4.9",
+  "notas": "Modo oscuro automático de noche en las apps del celular",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-4.9.exe",
+      "sha256": "dbfa1a4f7854e4a5f0eb5b6f800c684af5eb5ea726bbab385113a11cc368ee8e",
+      "partes": [
+        "partes/FumiPOS-Setup-4.9.exe.001",
+        "partes/FumiPOS-Setup-4.9.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-4.9.exe",
+      "sha256": "0f66e0abd5a03b50e5dd20e088b27b7b592f91954bca36841b22e73b84f9258b",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-4.9.exe.001",
+        "partes/FumiPOS-Terminal-Setup-4.9.exe.002"
+      ]
+    }
+  ]
+}
