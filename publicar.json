@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v5.8",
+  "titulo": "Fumio 5.8",
+  "notas": "Acceso provisional por internet solo para técnicos; contraseña del técnico siempre visible para cambiarla",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-5.8.exe",
+      "sha256": "5b6894e203590e1a6acd457b017c37fbbda43c4e516bc36b703f8cc153cc3d73",
+      "partes": [
+        "partes/FumiPOS-Setup-5.8.exe.001",
+        "partes/FumiPOS-Setup-5.8.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-5.8.exe",
+      "sha256": "16f34f0d83300091b258205276d7cebb389515c58dbe393f1593944b5b73b7ec",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-5.8.exe.001",
+        "partes/FumiPOS-Terminal-Setup-5.8.exe.002"
+      ]
+    }
+  ]
+}
