@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v5.5",
+  "titulo": "Fumio 5.5",
+  "notas": "Agendar: + para agregar tipos, lugares y problemáticas; hora distinta por día; editar visitas en Rutas",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-5.5.exe",
+      "sha256": "159e6e61fe3595bd67f8af05689eef3a5aea449bba0fb93ed113210543e4d6b6",
+      "partes": [
+        "partes/FumiPOS-Setup-5.5.exe.001",
+        "partes/FumiPOS-Setup-5.5.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-5.5.exe",
+      "sha256": "c7edadbb1d7904668a5bb87b5c300845b5cb6f5360ab8146db3bde941d484f44",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-5.5.exe.001",
+        "partes/FumiPOS-Terminal-Setup-5.5.exe.002"
+      ]
+    }
+  ]
+}
