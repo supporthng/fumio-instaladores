@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v5.0",
+  "titulo": "Fumio 5.0",
+  "notas": "Agendar con lugar y problemática (llegan al técnico), Resumen del negocio como módulo propio",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-5.0.exe",
+      "sha256": "d935aadf30e60f5b30b7c0ca3ee46a3190b095d00196936ef369601fd623edc6",
+      "partes": [
+        "partes/FumiPOS-Setup-5.0.exe.001",
+        "partes/FumiPOS-Setup-5.0.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-5.0.exe",
+      "sha256": "5361299f73000ee0b93c2158f691e2f06d837f50991f24fb4d21a65d2d8982dd",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-5.0.exe.001",
+        "partes/FumiPOS-Terminal-Setup-5.0.exe.002"
+      ]
+    }
+  ]
+}
