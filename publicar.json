@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v6.8",
+  "titulo": "Fumio 6.8",
+  "notas": "Producto: foto y ficha técnica con su propio botón de subir",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-6.8.exe",
+      "sha256": "860540ff4103571f96356bf858aa9ff4a3da10b1fb460e956b09a15578f0638c",
+      "partes": [
+        "partes/FumiPOS-Setup-6.8.exe.001",
+        "partes/FumiPOS-Setup-6.8.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-6.8.exe",
+      "sha256": "8c56a23d63bc072b24e7bf220ca6d047dcee6abcc93a6e6f152e4a9de697680d",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-6.8.exe.001",
+        "partes/FumiPOS-Terminal-Setup-6.8.exe.002"
+      ]
+    }
+  ]
+}
