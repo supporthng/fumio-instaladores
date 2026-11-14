@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v6.7",
+  "titulo": "Fumio 6.7",
+  "notas": "Producto: el PDF en Foto se guarda como ficha técnica",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-6.7.exe",
+      "sha256": "72e00a1906a2be945600d207017218a0be8f7b9f1836dbe36e245a29084d884c",
+      "partes": [
+        "partes/FumiPOS-Setup-6.7.exe.001",
+        "partes/FumiPOS-Setup-6.7.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-6.7.exe",
+      "sha256": "cccf51e6e4a20c95fafc295aca3a66e20b7ad2937357f9145e00f1b6df21f4f6",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-6.7.exe.001",
+        "partes/FumiPOS-Terminal-Setup-6.7.exe.002"
+      ]
+    }
+  ]
+}
