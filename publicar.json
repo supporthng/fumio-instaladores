@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v6.6",
+  "titulo": "Fumio 6.6",
+  "notas": "Constancia del técnico más simple: 4 pasos, datos ya marcados y estaciones resumidas",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-6.6.exe",
+      "sha256": "0858c03630bf953a22a4cb2dd08d0acb950aea6b39a515edbdc6d13fe3d514a7",
+      "partes": [
+        "partes/FumiPOS-Setup-6.6.exe.001",
+        "partes/FumiPOS-Setup-6.6.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-6.6.exe",
+      "sha256": "1313838f00ec2c9b803111147e7a296dc901c12b57a3836b0945fab928312705",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-6.6.exe.001",
+        "partes/FumiPOS-Terminal-Setup-6.6.exe.002"
+      ]
+    }
+  ]
+}
