@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v6.1",
+  "titulo": "Fumio 6.1",
+  "notas": "Modo oscuro: encabezados y botones con los colores del logo",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-6.1.exe",
+      "sha256": "127b9669dc3c28b3864cae583db1d5bc21b262f0b751eb73c9ff3bf7d9683527",
+      "partes": [
+        "partes/FumiPOS-Setup-6.1.exe.001",
+        "partes/FumiPOS-Setup-6.1.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-6.1.exe",
+      "sha256": "e12fa0b075a61b7aca35a94241cb1c8f125eeca83442b7db2531fb08a0df5d1d",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-6.1.exe.001",
+        "partes/FumiPOS-Terminal-Setup-6.1.exe.002"
+      ]
+    }
+  ]
+}
