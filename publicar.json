@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v6.5",
+  "titulo": "Fumio 6.5",
+  "notas": "Llegué lejos del lugar: el técnico lo confirma y la oficina ve la distancia",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-6.5.exe",
+      "sha256": "79221c14fd3cb7b1373baf6a2e1c243d37347f94dd1be3ff17b1f1a184d3989f",
+      "partes": [
+        "partes/FumiPOS-Setup-6.5.exe.001",
+        "partes/FumiPOS-Setup-6.5.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-6.5.exe",
+      "sha256": "68b2106b8961c5f3894aa379543d4aeb52238136b8a910d59f03af6c3215e52a",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-6.5.exe.001",
+        "partes/FumiPOS-Terminal-Setup-6.5.exe.002"
+      ]
+    }
+  ]
+}
