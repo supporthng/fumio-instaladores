@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v6.3",
+  "titulo": "Fumio 6.3",
+  "notas": "Pantalla Servicios del día: solo los servicios por día y estado",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-6.3.exe",
+      "sha256": "e038963565960e97865a34c1d51a3ee3341c7cfb011229de4aafacb689f51996",
+      "partes": [
+        "partes/FumiPOS-Setup-6.3.exe.001",
+        "partes/FumiPOS-Setup-6.3.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-6.3.exe",
+      "sha256": "887f04aa356c8ab05b5ba6c7d0772e912bdb04fc5bb1aeaa61f0f63894a34d62",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-6.3.exe.001",
+        "partes/FumiPOS-Terminal-Setup-6.3.exe.002"
+      ]
+    }
+  ]
+}
