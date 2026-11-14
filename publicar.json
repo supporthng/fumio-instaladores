@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v6.2",
+  "titulo": "Fumio 6.2",
+  "notas": "App del administrador: todos los servicios del día con filtros de pendientes, en curso y finalizados",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-6.2.exe",
+      "sha256": "2c16235a6b4d825e6d25225501dab8ffd78c8daaf745ceb686a48fb8a1fa3642",
+      "partes": [
+        "partes/FumiPOS-Setup-6.2.exe.001",
+        "partes/FumiPOS-Setup-6.2.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-6.2.exe",
+      "sha256": "f51873037cbb23c69b9930b481f8f6203dc597b6eb662a2e14f40128a82881e5",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-6.2.exe.001",
+        "partes/FumiPOS-Terminal-Setup-6.2.exe.002"
+      ]
+    }
+  ]
+}
