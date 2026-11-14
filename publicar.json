@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v6.4",
+  "titulo": "Fumio 6.4",
+  "notas": "Equipos: entrar con usuario y clave aprueba el celular si ya tenía acceso; el administrador abre su panel desde la app del técnico",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-6.4.exe",
+      "sha256": "b1c29ae461a7a6af6a0da58a69c3e996e36c938deb4777c22658db2bda175093",
+      "partes": [
+        "partes/FumiPOS-Setup-6.4.exe.001",
+        "partes/FumiPOS-Setup-6.4.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-6.4.exe",
+      "sha256": "e768ed16efbbb3d5b93bbfa6f662127eb79574b25a5cebf81d91de35e29d79eb",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-6.4.exe.001",
+        "partes/FumiPOS-Terminal-Setup-6.4.exe.002"
+      ]
+    }
+  ]
+}
