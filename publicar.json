@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v8.0",
+  "titulo": "Fumio 8.0",
+  "notas": "Buscar cliente escribiendo",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-8.0.exe",
+      "sha256": "53588ae29fbbff263f102c66ba7312843dc0021cc85f45da00b658a1147bb071",
+      "partes": [
+        "partes/FumiPOS-Setup-8.0.exe.001",
+        "partes/FumiPOS-Setup-8.0.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-8.0.exe",
+      "sha256": "4cfeddc93700a59a7696a3ee9ce71c47ca3e8fbeb435fe7c1d4483c7d456fc12",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-8.0.exe.001",
+        "partes/FumiPOS-Terminal-Setup-8.0.exe.002"
+      ]
+    }
+  ]
+}
