@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v7.0",
+  "titulo": "Fumio 7.0",
+  "notas": "Configuración sin título repetido",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-7.0.exe",
+      "sha256": "b7f080fa6cfcd8db180e2302f03901e8b22e759756bc2461cec5d2b44cac819b",
+      "partes": [
+        "partes/FumiPOS-Setup-7.0.exe.001",
+        "partes/FumiPOS-Setup-7.0.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-7.0.exe",
+      "sha256": "8ca6b0f7cee36ca61b5a1044dd074874ef66add576e04a9c8acb9e81bee5e52d",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-7.0.exe.001",
+        "partes/FumiPOS-Terminal-Setup-7.0.exe.002"
+      ]
+    }
+  ]
+}
