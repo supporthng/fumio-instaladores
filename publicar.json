@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v6.9",
+  "titulo": "Fumio 6.9",
+  "notas": "Producto: proveedor",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-6.9.exe",
+      "sha256": "4b2053a939954adfab7933d824387a8353a7382c75f49d7673e78237b1293a42",
+      "partes": [
+        "partes/FumiPOS-Setup-6.9.exe.001",
+        "partes/FumiPOS-Setup-6.9.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-6.9.exe",
+      "sha256": "fa97018c36c376f53f5d8a58714bd4a99978c20b665bc62c6064b5a1c0810243",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-6.9.exe.001",
+        "partes/FumiPOS-Terminal-Setup-6.9.exe.002"
+      ]
+    }
+  ]
+}
