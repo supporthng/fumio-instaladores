@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v7.1",
+  "titulo": "Fumio 7.1",
+  "notas": "Certificación DGII: firmar el XML de la Oficina Virtual con el certificado de la empresa",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-7.1.exe",
+      "sha256": "21cbb721af48f16b1f46bb053c049b7010710bdd470c93ff53ed672fd1ab60a9",
+      "partes": [
+        "partes/FumiPOS-Setup-7.1.exe.001",
+        "partes/FumiPOS-Setup-7.1.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-7.1.exe",
+      "sha256": "217328232d30d5b7f20fec25e7f8683eb8b3aa9da0d0cb33b20f02e96c1ae26c",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-7.1.exe.001",
+        "partes/FumiPOS-Terminal-Setup-7.1.exe.002"
+      ]
+    }
+  ]
+}
