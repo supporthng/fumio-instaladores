@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v7.7",
+  "titulo": "Fumio 7.7",
+  "notas": "Simulación DGII: orden por grupos, datos corregidos y Reiniciar simulación",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-7.7.exe",
+      "sha256": "8e1318d096c74075f9318b43b6424bbe202723729c4188262dd2350a54ba3c73",
+      "partes": [
+        "partes/FumiPOS-Setup-7.7.exe.001",
+        "partes/FumiPOS-Setup-7.7.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-7.7.exe",
+      "sha256": "05c3cfa47a63538e2043e7e84eee8648bb1da1449cd672921a403a67c342188e",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-7.7.exe.001",
+        "partes/FumiPOS-Terminal-Setup-7.7.exe.002"
+      ]
+    }
+  ]
+}
