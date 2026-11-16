@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v7.2",
+  "titulo": "Fumio 7.2",
+  "notas": "Certificación DGII: set de pruebas de e-CF desde el Excel, firmado y enviado a CerteCF",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-7.2.exe",
+      "sha256": "df7b52173d2fe53faddd582976126cf99e1dd818ff50b5f573883f2fc327a7eb",
+      "partes": [
+        "partes/FumiPOS-Setup-7.2.exe.001",
+        "partes/FumiPOS-Setup-7.2.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-7.2.exe",
+      "sha256": "51082f52500dae9fd27f0ef76996414c399af437248d77336abf1ec96693680f",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-7.2.exe.001",
+        "partes/FumiPOS-Terminal-Setup-7.2.exe.002"
+      ]
+    }
+  ]
+}
