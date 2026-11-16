@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v7.8",
+  "titulo": "Fumio 7.8",
+  "notas": "Representación impresa con QR para la certificación DGII",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-7.8.exe",
+      "sha256": "7ea3a11cb6e49c2a4ce6325cdfc97d9b01a8c87ef6af537e35d71a2d3b86e5b5",
+      "partes": [
+        "partes/FumiPOS-Setup-7.8.exe.001",
+        "partes/FumiPOS-Setup-7.8.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-7.8.exe",
+      "sha256": "15e5e6a1aa348b90884e2382b9f11de64bc75f22faa102718b23af01a525bfd0",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-7.8.exe.001",
+        "partes/FumiPOS-Terminal-Setup-7.8.exe.002"
+      ]
+    }
+  ]
+}
