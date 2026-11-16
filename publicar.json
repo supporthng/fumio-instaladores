@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v7.3",
+  "titulo": "Fumio 7.3",
+  "notas": "Set de pruebas DGII: descargar los XML de las facturas de consumo menores de 250 mil",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-7.3.exe",
+      "sha256": "17961742b5f153a17f4454a8eb8201f62bc8c4018dfda03ee5c6f47f67cf6016",
+      "partes": [
+        "partes/FumiPOS-Setup-7.3.exe.001",
+        "partes/FumiPOS-Setup-7.3.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-7.3.exe",
+      "sha256": "e2a9163b6b92d28c7357cc931a66abe842374bd8d6d4d2688bcaf5cf442f3e10",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-7.3.exe.001",
+        "partes/FumiPOS-Terminal-Setup-7.3.exe.002"
+      ]
+    }
+  ]
+}
