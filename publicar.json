@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v7.5",
+  "titulo": "Fumio 7.5",
+  "notas": "Certificación DGII: generar y enviar la simulación",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-7.5.exe",
+      "sha256": "a0a0dde1d6f8cbec3b6584252dbc750d59b169d8385dd55e4483b64710af9364",
+      "partes": [
+        "partes/FumiPOS-Setup-7.5.exe.001",
+        "partes/FumiPOS-Setup-7.5.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-7.5.exe",
+      "sha256": "1a16efe1e48e9aa97cf5d53c9b1dd3ce6a9d58ee9d917d10269dd47fb95a4b4f",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-7.5.exe.001",
+        "partes/FumiPOS-Terminal-Setup-7.5.exe.002"
+      ]
+    }
+  ]
+}
