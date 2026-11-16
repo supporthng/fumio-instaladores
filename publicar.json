@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v7.9",
+  "titulo": "Fumio 7.9",
+  "notas": "Varios trabajos y técnicos al agendar; app del técnico más simple; productos de uso actual",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-7.9.exe",
+      "sha256": "f75a31949b1f515691289ed8e64e7082ae4a00c8bc2271eca6043a38fe1648e8",
+      "partes": [
+        "partes/FumiPOS-Setup-7.9.exe.001",
+        "partes/FumiPOS-Setup-7.9.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-7.9.exe",
+      "sha256": "7b8b46df28700e122dd6400d63ed016752a69ec48ac652da1709e68f6bcac7cf",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-7.9.exe.001",
+        "partes/FumiPOS-Terminal-Setup-7.9.exe.002"
+      ]
+    }
+  ]
+}
