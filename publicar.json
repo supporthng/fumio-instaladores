@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v7.6",
+  "titulo": "Fumio 7.6",
+  "notas": "Simulación DGII con numeración de prueba propia",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-7.6.exe",
+      "sha256": "6471387b96045534fc0421cab20dfd95dfea805ac16dda703b10d0ca0fe8a67e",
+      "partes": [
+        "partes/FumiPOS-Setup-7.6.exe.001",
+        "partes/FumiPOS-Setup-7.6.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-7.6.exe",
+      "sha256": "82dc8df1471441e0c40422aa5f4361b793d7529f5aafb226085d3d0739608613",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-7.6.exe.001",
+        "partes/FumiPOS-Terminal-Setup-7.6.exe.002"
+      ]
+    }
+  ]
+}
