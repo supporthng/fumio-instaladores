@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v7.4",
+  "titulo": "Fumio 7.4",
+  "notas": "Certificación DGII: aprobaciones comerciales desde el Excel",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-7.4.exe",
+      "sha256": "8ea52f3889c969fff09f01d1ca7331813b0320b2c8c7b76214668211aed56337",
+      "partes": [
+        "partes/FumiPOS-Setup-7.4.exe.001",
+        "partes/FumiPOS-Setup-7.4.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-7.4.exe",
+      "sha256": "ca9574ca211e42a7b847ecf4ec9f23bf27801dfd6d2518dd12254e99db07ce0f",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-7.4.exe.001",
+        "partes/FumiPOS-Terminal-Setup-7.4.exe.002"
+      ]
+    }
+  ]
+}
