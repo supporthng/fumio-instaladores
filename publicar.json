@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v8.2",
+  "titulo": "Fumio 8.2",
+  "notas": "Servicios de madrugada al final del día",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-8.2.exe",
+      "sha256": "d97da6e3b7cfb400b89134f28f13592db76602751721d3e1eaaabb63f5c06d2b",
+      "partes": [
+        "partes/FumiPOS-Setup-8.2.exe.001",
+        "partes/FumiPOS-Setup-8.2.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-8.2.exe",
+      "sha256": "d5e568f206ab70d175211a5fc1c39c064002907e2a3eba799aee531f0c66a89b",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-8.2.exe.001",
+        "partes/FumiPOS-Terminal-Setup-8.2.exe.002"
+      ]
+    }
+  ]
+}
