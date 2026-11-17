@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v8.5",
+  "titulo": "Fumio 8.5",
+  "notas": "Rutas: atajo Ayer",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-8.5.exe",
+      "sha256": "d551172a63b1ab54a40ad94ec3df0c27177c940c374214a74042a3c92f230ce5",
+      "partes": [
+        "partes/FumiPOS-Setup-8.5.exe.001",
+        "partes/FumiPOS-Setup-8.5.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-8.5.exe",
+      "sha256": "c49b09c6f657588e26a3c2956af420978fd3b99ccbf8bed87d935fe9f281a7b1",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-8.5.exe.001",
+        "partes/FumiPOS-Terminal-Setup-8.5.exe.002"
+      ]
+    }
+  ]
+}
