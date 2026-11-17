@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v8.1",
+  "titulo": "Fumio 8.1",
+  "notas": "Agendar por voz (también con Siri)",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-8.1.exe",
+      "sha256": "d8670135263ecbddca1732392262290c16f7396b75b5af4cc8e42d528a22c283",
+      "partes": [
+        "partes/FumiPOS-Setup-8.1.exe.001",
+        "partes/FumiPOS-Setup-8.1.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-8.1.exe",
+      "sha256": "02dbf02747c7dcf8286033fc0cb50fa663e4d0e30628da16dd34615ce350d5c3",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-8.1.exe.001",
+        "partes/FumiPOS-Terminal-Setup-8.1.exe.002"
+      ]
+    }
+  ]
+}
