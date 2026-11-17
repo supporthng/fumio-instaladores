@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v8.4",
+  "titulo": "Fumio 8.4",
+  "notas": "WhatsApp con los servicios de cada técnico; constancia más corta",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-8.4.exe",
+      "sha256": "803cdde72877c6aacb832ef77e01171d9b09a478825781b444217948566fb301",
+      "partes": [
+        "partes/FumiPOS-Setup-8.4.exe.001",
+        "partes/FumiPOS-Setup-8.4.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-8.4.exe",
+      "sha256": "9de727f2167d0e7ce5049c78846990efb7a8ee4205f3838e1d82c412cf1a36a8",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-8.4.exe.001",
+        "partes/FumiPOS-Terminal-Setup-8.4.exe.002"
+      ]
+    }
+  ]
+}
