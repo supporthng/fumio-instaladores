@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v8.6",
+  "titulo": "Fumio 8.6",
+  "notas": "Las terminales se ponen al día solas cuando se actualiza el servidor",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-8.6.exe",
+      "sha256": "3e7716c3cac6e06b435822332921b3b9dbf1272d399fc39773a223ca496f8288",
+      "partes": [
+        "partes/FumiPOS-Setup-8.6.exe.001",
+        "partes/FumiPOS-Setup-8.6.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-8.6.exe",
+      "sha256": "622019ca2d66b4f79d37815283d1f4eb2e760b28bfc76b9c6412a3e00114b062",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-8.6.exe.001",
+        "partes/FumiPOS-Terminal-Setup-8.6.exe.002"
+      ]
+    }
+  ]
+}
