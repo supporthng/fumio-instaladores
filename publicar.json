@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v8.3",
+  "titulo": "Fumio 8.3",
+  "notas": "Representación impresa con el formato de la DGII",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-8.3.exe",
+      "sha256": "2be4fc34653aafdd72071227f9cdaf3aa8351b5f0049bb6b07098ad21914f78f",
+      "partes": [
+        "partes/FumiPOS-Setup-8.3.exe.001",
+        "partes/FumiPOS-Setup-8.3.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-8.3.exe",
+      "sha256": "6b5330edf69f8c16647a0825f96472f76fa83bc4c33f964dd82b5e4216638ab1",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-8.3.exe.001",
+        "partes/FumiPOS-Terminal-Setup-8.3.exe.002"
+      ]
+    }
+  ]
+}
