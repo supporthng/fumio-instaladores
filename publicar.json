@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v8.8",
+  "titulo": "Fumio 8.8",
+  "notas": "Modo oscuro: lo marcado se resalta en lima",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-8.8.exe",
+      "sha256": "e755ed3e87592fb4bf969f703f0fa346eacee23a42f563fc0f2f76d2a44a22d8",
+      "partes": [
+        "partes/FumiPOS-Setup-8.8.exe.001",
+        "partes/FumiPOS-Setup-8.8.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-8.8.exe",
+      "sha256": "c54cdeaf606deb8c09906fbfc583962e954c2569f92ef2e79efc85164d2e772a",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-8.8.exe.001",
+        "partes/FumiPOS-Terminal-Setup-8.8.exe.002"
+      ]
+    }
+  ]
+}
