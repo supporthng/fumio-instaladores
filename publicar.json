@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v9.4",
+  "titulo": "Fumio 9.4",
+  "notas": "Buscar sucursales al agendar; importar sucursales pegando el texto de la página",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-9.4.exe",
+      "sha256": "bd12597ed25eee0b02579fcb4fb2ef3f858d403fb1e9a0b78fa044798334314b",
+      "partes": [
+        "partes/FumiPOS-Setup-9.4.exe.001",
+        "partes/FumiPOS-Setup-9.4.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-9.4.exe",
+      "sha256": "da86b73638de3bf110742bc78b0d0981047167593d1dc7df4bba2d399e39625c",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-9.4.exe.001",
+        "partes/FumiPOS-Terminal-Setup-9.4.exe.002"
+      ]
+    }
+  ]
+}
