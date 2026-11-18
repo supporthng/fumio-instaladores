@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v9.2",
+  "titulo": "Fumio 9.2",
+  "notas": "Hoja de inspección con fotos y videos",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-9.2.exe",
+      "sha256": "a030c1bed64037c06675c20ddc455de34c974eceb5d80c88a2d02dc935e40525",
+      "partes": [
+        "partes/FumiPOS-Setup-9.2.exe.001",
+        "partes/FumiPOS-Setup-9.2.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-9.2.exe",
+      "sha256": "69bc41872150c9999cde41f8b498b3f9c8740f13c29f9674fd7ea0774594ca6b",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-9.2.exe.001",
+        "partes/FumiPOS-Terminal-Setup-9.2.exe.002"
+      ]
+    }
+  ]
+}
