@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v9.0",
+  "titulo": "Fumio 9.0",
+  "notas": "Resumen del servicio realizado en la app del administrador",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-9.0.exe",
+      "sha256": "d580ea1c3ca8773bf1449378f13ebc072ffe0c924b71c34ed912dac7e35ae450",
+      "partes": [
+        "partes/FumiPOS-Setup-9.0.exe.001",
+        "partes/FumiPOS-Setup-9.0.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-9.0.exe",
+      "sha256": "2e135c250c3ea708299714a69773e77e95f307afe5b9b46d491ec46611c3d61e",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-9.0.exe.001",
+        "partes/FumiPOS-Terminal-Setup-9.0.exe.002"
+      ]
+    }
+  ]
+}
