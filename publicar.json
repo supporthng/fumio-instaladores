@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v9.5",
+  "titulo": "Fumio 9.5",
+  "notas": "Agendar varias sucursales el mismo día, cada una con su técnico",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-9.5.exe",
+      "sha256": "85353ce398a7d8c5c382ed5afcf43e8badf69fa5d5e05d012cbf276b86634fc1",
+      "partes": [
+        "partes/FumiPOS-Setup-9.5.exe.001",
+        "partes/FumiPOS-Setup-9.5.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-9.5.exe",
+      "sha256": "359347e3b270c262cfc314151a7a04ea3a5b9e6916f1a57abc8c9e0e1f7ede72",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-9.5.exe.001",
+        "partes/FumiPOS-Terminal-Setup-9.5.exe.002"
+      ]
+    }
+  ]
+}
