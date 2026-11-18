@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v8.9",
+  "titulo": "Fumio 8.9",
+  "notas": "Editar servicios desde la app del administrador",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-8.9.exe",
+      "sha256": "e90050529c45f72430312e19b71b07cc1002c872248ba0d676a9c3988a30f777",
+      "partes": [
+        "partes/FumiPOS-Setup-8.9.exe.001",
+        "partes/FumiPOS-Setup-8.9.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-8.9.exe",
+      "sha256": "5f275e9f5f8117a66908003f4b37b09a5729c6e2fc68bf330e42fb3da68717ec",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-8.9.exe.001",
+        "partes/FumiPOS-Terminal-Setup-8.9.exe.002"
+      ]
+    }
+  ]
+}
