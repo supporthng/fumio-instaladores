@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v9.3",
+  "titulo": "Fumio 9.3",
+  "notas": "Enviar la hoja de inspección por correo",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-9.3.exe",
+      "sha256": "bfa8dc4c865fcd0f0e59e1293afdfffdc3d436739db131f17531f8514eadafc6",
+      "partes": [
+        "partes/FumiPOS-Setup-9.3.exe.001",
+        "partes/FumiPOS-Setup-9.3.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-9.3.exe",
+      "sha256": "754da6192eb055b8419295cdba881206f3e6e4e2117cac3925cc02a2550ffd2d",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-9.3.exe.001",
+        "partes/FumiPOS-Terminal-Setup-9.3.exe.002"
+      ]
+    }
+  ]
+}
