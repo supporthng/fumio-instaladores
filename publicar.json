@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v9.1",
+  "titulo": "Fumio 9.1",
+  "notas": "Servicios para la DGII: rutas sin importar mayúsculas",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-9.1.exe",
+      "sha256": "e58b1ef730f3cc5631cb57e64761c790a52da0aa57f41aea897fadc64d54d6e9",
+      "partes": [
+        "partes/FumiPOS-Setup-9.1.exe.001",
+        "partes/FumiPOS-Setup-9.1.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-9.1.exe",
+      "sha256": "a0da44eb190b8736481c90d709f96cbc6462a079e7b2f0fddb3d848d67478475",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-9.1.exe.001",
+        "partes/FumiPOS-Terminal-Setup-9.1.exe.002"
+      ]
+    }
+  ]
+}
