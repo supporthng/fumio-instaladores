@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v8.7",
+  "titulo": "Fumio 8.7",
+  "notas": "Editar servicios desde el móvil; hora de madrugada más clara",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-8.7.exe",
+      "sha256": "d079f135fe13ad3298e065438c2e0bc12ddcd7444dc741286a37c75393503fe5",
+      "partes": [
+        "partes/FumiPOS-Setup-8.7.exe.001",
+        "partes/FumiPOS-Setup-8.7.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-8.7.exe",
+      "sha256": "2ba8fc2d134460008d8583e19822690bdf28f4cd5ce0fc71a19774c4a46018d5",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-8.7.exe.001",
+        "partes/FumiPOS-Terminal-Setup-8.7.exe.002"
+      ]
+    }
+  ]
+}
