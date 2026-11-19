@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v9.9",
+  "titulo": "Fumio 9.9",
+  "notas": "No se agenda dos veces el mismo servicio el mismo día en el mismo lugar; se quitan los duplicados",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-9.9.exe",
+      "sha256": "39bce617be9f8e7e55b754cfe34ecd406637bdc9a322b2ceeb33b0291b9c9dad",
+      "partes": [
+        "partes/FumiPOS-Setup-9.9.exe.001",
+        "partes/FumiPOS-Setup-9.9.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-9.9.exe",
+      "sha256": "06b09f42e037a1a8cc85d28a21751b714cc38a71efebe1d30188a7f9bf1eb0d0",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-9.9.exe.001",
+        "partes/FumiPOS-Terminal-Setup-9.9.exe.002"
+      ]
+    }
+  ]
+}
