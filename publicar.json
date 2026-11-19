@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v10.2",
+  "titulo": "Fumio 10.2",
+  "notas": "App del técnico nueva, Necesita tu atención, barra de comandos, el día como tablero, modelos de cotización por tipo y nueva impresión de cotización",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-10.2.exe",
+      "sha256": "564c5959b1ecaab68a3147ff01150f800b9b6f4d6cf4fa214fe717121e42fb0d",
+      "partes": [
+        "partes/FumiPOS-Setup-10.2.exe.001",
+        "partes/FumiPOS-Setup-10.2.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-10.2.exe",
+      "sha256": "e112344e69422d49c299c3d522ac1b2d71ffee76dbd7c134b95d94c60a125d0b",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-10.2.exe.001",
+        "partes/FumiPOS-Terminal-Setup-10.2.exe.002"
+      ]
+    }
+  ]
+}
