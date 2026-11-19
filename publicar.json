@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v10.1",
+  "titulo": "Fumio 10.1",
+  "notas": "Nueva paleta de colores: petróleo y menta",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-10.1.exe",
+      "sha256": "39d5b38731ad7f10c2224b0ea15315db4a99c8b654f65e90a9abc484cda90bf8",
+      "partes": [
+        "partes/FumiPOS-Setup-10.1.exe.001",
+        "partes/FumiPOS-Setup-10.1.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-10.1.exe",
+      "sha256": "fb0336d82befda9b38e8052d1da410c973e3b014c291aa046d6a0085a7e332b3",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-10.1.exe.001",
+        "partes/FumiPOS-Terminal-Setup-10.1.exe.002"
+      ]
+    }
+  ]
+}
