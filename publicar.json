@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v10.0",
+  "titulo": "Fumio 10.0",
+  "notas": "Verificar e-CF reconoce una dirección de recepción que llega a este mismo servidor",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-10.0.exe",
+      "sha256": "785048391f84adff531fab722d880945d9d765c1c88c6b0867a42e2525331362",
+      "partes": [
+        "partes/FumiPOS-Setup-10.0.exe.001",
+        "partes/FumiPOS-Setup-10.0.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-10.0.exe",
+      "sha256": "1e26163b5016d48814992f89ad82041ae4b9959258875809679887a3525af129",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-10.0.exe.001",
+        "partes/FumiPOS-Terminal-Setup-10.0.exe.002"
+      ]
+    }
+  ]
+}
