@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v9.8",
+  "titulo": "Fumio 9.8",
+  "notas": "Retirar secuencias E de prueba sin informar a la DGII; pantalla de espera mientras el servidor arranca",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-9.8.exe",
+      "sha256": "462f9d9d7f901e811cea48744dff71cfdb94be03b355a10911e953a723b6922a",
+      "partes": [
+        "partes/FumiPOS-Setup-9.8.exe.001",
+        "partes/FumiPOS-Setup-9.8.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-9.8.exe",
+      "sha256": "b184f27a96dcca5e8171badcf8f50b9ee5bf6156716ce0093eabbbaa071303da",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-9.8.exe.001",
+        "partes/FumiPOS-Terminal-Setup-9.8.exe.002"
+      ]
+    }
+  ]
+}
