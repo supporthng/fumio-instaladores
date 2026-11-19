@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v9.6",
+  "titulo": "Fumio 9.6",
+  "notas": "Documentos para clientes; sello y firma en todo lo enviado; factura y cotización por WhatsApp y correo; pestaña Sin confirmar; sin comprobante sin ITBIS",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-9.6.exe",
+      "sha256": "765d5d4e910e4d922e818687e0a185953e46f16796cd5b2a8c9f866c8a93ac3f",
+      "partes": [
+        "partes/FumiPOS-Setup-9.6.exe.001",
+        "partes/FumiPOS-Setup-9.6.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-9.6.exe",
+      "sha256": "64aa1dfc42486bc914d5b39574667804eae15fc9032df332ab174da4b7a36a73",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-9.6.exe.001",
+        "partes/FumiPOS-Terminal-Setup-9.6.exe.002"
+      ]
+    }
+  ]
+}
