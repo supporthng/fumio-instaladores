@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v10.3",
+  "titulo": "Fumio 10.3",
+  "notas": "WhatsApp automático a clientes: servicio agendado, recordatorio el día antes, técnico en camino con tiempo de llegada, gracias con constancia y encuesta, y pedir el próximo servicio",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-10.3.exe",
+      "sha256": "60c37bad5130bdac6d8b5460d0ccce1a982039bb7a923ae4a402ab8e13f923bf",
+      "partes": [
+        "partes/FumiPOS-Setup-10.3.exe.001",
+        "partes/FumiPOS-Setup-10.3.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-10.3.exe",
+      "sha256": "b546d11cf0a7ad3bb2ed8a3d9be7d5015af4b75159b8d624e8ada18aa89e77e3",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-10.3.exe.001",
+        "partes/FumiPOS-Terminal-Setup-10.3.exe.002"
+      ]
+    }
+  ]
+}
