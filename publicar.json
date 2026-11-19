@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v10.4",
+  "titulo": "Fumio 10.4",
+  "notas": "Sucursales en vista de lista y cotizaciones con modelos: elegir modelo y cliente y queda lista; pantalla para crear y editar modelos",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-10.4.exe",
+      "sha256": "6ae614bf0c4d75bec3c2958cfbf85f4f7039e2fdb4f4eaac575a85cd8b55bf3a",
+      "partes": [
+        "partes/FumiPOS-Setup-10.4.exe.001",
+        "partes/FumiPOS-Setup-10.4.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-10.4.exe",
+      "sha256": "284e8b294c07eb4e21943b154e7442c137345f8e383a05b1ce8d764f61ccb10f",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-10.4.exe.001",
+        "partes/FumiPOS-Terminal-Setup-10.4.exe.002"
+      ]
+    }
+  ]
+}
