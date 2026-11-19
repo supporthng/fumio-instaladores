@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v9.7",
+  "titulo": "Fumio 9.7",
+  "notas": "NCF y e-CF reorganizado con verificación de la facturación electrónica; editar secuencias",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-9.7.exe",
+      "sha256": "fa868e436b56f0af422c5ad35f87f20d8f4508f2cf2a7c3bda857e3c7f201bb9",
+      "partes": [
+        "partes/FumiPOS-Setup-9.7.exe.001",
+        "partes/FumiPOS-Setup-9.7.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-9.7.exe",
+      "sha256": "bd9c5a678ea6f8c82568efdacd81aace6bda8ae70005ce666420fb978939978f",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-9.7.exe.001",
+        "partes/FumiPOS-Terminal-Setup-9.7.exe.002"
+      ]
+    }
+  ]
+}
