@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v11.2",
+  "titulo": "Fumio 11.2",
+  "notas": "Confirmar conduces: el botón Confirmar pasa a Recibido sin quitar la fila y se puede cambiar el técnico que hizo el servicio",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-11.2.exe",
+      "sha256": "f595045790d4ce31ecb5704267faa504f1ea2bb21fd09a143131a030cbb27728",
+      "partes": [
+        "partes/FumiPOS-Setup-11.2.exe.001",
+        "partes/FumiPOS-Setup-11.2.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-11.2.exe",
+      "sha256": "eff83fde81d7e914d68613d38d6d7c4cbed8af06fc5b205634f14408fbe876e8",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-11.2.exe.001",
+        "partes/FumiPOS-Terminal-Setup-11.2.exe.002"
+      ]
+    }
+  ]
+}
