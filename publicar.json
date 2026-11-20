@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v11.1",
+  "titulo": "Fumio 11.1",
+  "notas": "Confirmar conduces: servicios por día, por semana o por mes, con el botón Recibido y el número de conduce editable",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-11.1.exe",
+      "sha256": "7ff7ab2a17f59113b41788a8fa4f7ed5a49d7cda0f3400ef3bb18423e0e2b2bb",
+      "partes": [
+        "partes/FumiPOS-Setup-11.1.exe.001",
+        "partes/FumiPOS-Setup-11.1.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-11.1.exe",
+      "sha256": "103b99826eff0eeb1b1778d38cf11c2660a69fca5a7b29639ea9379d48a9a566",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-11.1.exe.001",
+        "partes/FumiPOS-Terminal-Setup-11.1.exe.002"
+      ]
+    }
+  ]
+}
