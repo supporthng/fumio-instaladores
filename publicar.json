@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v11.5",
+  "titulo": "Fumio 11.5",
+  "notas": "Registrar servicio realizado: varios servicios en la misma visita y comentarios",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-11.5.exe",
+      "sha256": "f9aa3360776fa1c11e62a04991c156dfcc5eed45f160350fdd76d94d4da37026",
+      "partes": [
+        "partes/FumiPOS-Setup-11.5.exe.001",
+        "partes/FumiPOS-Setup-11.5.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-11.5.exe",
+      "sha256": "183798afcc92825ef0a708d9c617a4e8fc26de62d4f66cfef81600c00856089a",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-11.5.exe.001",
+        "partes/FumiPOS-Terminal-Setup-11.5.exe.002"
+      ]
+    }
+  ]
+}
