@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v10.9",
+  "titulo": "Fumio 10.9",
+  "notas": "Vista previa de los modelos de cotización (como sale impresa la cotización)",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-10.9.exe",
+      "sha256": "f5ef85e5b988a327516974ff0a8cd3317a56ef7e7e8fbace56ceab4dedc95326",
+      "partes": [
+        "partes/FumiPOS-Setup-10.9.exe.001",
+        "partes/FumiPOS-Setup-10.9.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-10.9.exe",
+      "sha256": "159c2e922b33bca92c9a227c3fff32794b3699ca13c65d599b76c32f034d08e4",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-10.9.exe.001",
+        "partes/FumiPOS-Terminal-Setup-10.9.exe.002"
+      ]
+    }
+  ]
+}
