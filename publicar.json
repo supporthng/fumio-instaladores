@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v11.7",
+  "titulo": "Fumio 11.7",
+  "notas": "Registrar servicio realizado también para los usuarios de oficina",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-11.7.exe",
+      "sha256": "d327c16175c527b17613f834c23e7fb33b7b4ad11ea07cb02b03042ed9ca31c6",
+      "partes": [
+        "partes/FumiPOS-Setup-11.7.exe.001",
+        "partes/FumiPOS-Setup-11.7.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-11.7.exe",
+      "sha256": "59a3bce973470fb8e03f98a45ee0ae022def08fb38a9e79d95ee941ec3e89433",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-11.7.exe.001",
+        "partes/FumiPOS-Terminal-Setup-11.7.exe.002"
+      ]
+    }
+  ]
+}
