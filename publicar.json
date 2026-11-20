@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v10.8",
+  "titulo": "Fumio 10.8",
+  "notas": "Rutas ordenadas por ubicación: la vuelta más corta respetando las horas fijas, también en la app del técnico",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-10.8.exe",
+      "sha256": "98f7be78c68fa946e13f0dc55049d04e85531d81b1ae9eec2844663cfe76c55a",
+      "partes": [
+        "partes/FumiPOS-Setup-10.8.exe.001",
+        "partes/FumiPOS-Setup-10.8.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-10.8.exe",
+      "sha256": "7fbff9654359ce372452f48520fda597358f83aaf108de659d4a393c4c5e945e",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-10.8.exe.001",
+        "partes/FumiPOS-Terminal-Setup-10.8.exe.002"
+      ]
+    }
+  ]
+}
