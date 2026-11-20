@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v10.5",
+  "titulo": "Fumio 10.5",
+  "notas": "Sucursales del cliente: búsqueda, filtro por zona o región, y marcar las que atiende otra empresa",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-10.5.exe",
+      "sha256": "ce4ea2a0a620e8edc8af3a63c1b8143bf135124a3f8de04d6152630952263891",
+      "partes": [
+        "partes/FumiPOS-Setup-10.5.exe.001",
+        "partes/FumiPOS-Setup-10.5.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-10.5.exe",
+      "sha256": "89627f46ad7a0e728ab470b62933af76477c83daa42d993ee245a524286a2650",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-10.5.exe.001",
+        "partes/FumiPOS-Terminal-Setup-10.5.exe.002"
+      ]
+    }
+  ]
+}
