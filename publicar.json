@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v11.4",
+  "titulo": "Fumio 11.4",
+  "notas": "Nueva pestaña Por facturar: servicios con el conduce confirmado por cliente y el botón Facturar",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-11.4.exe",
+      "sha256": "cce5693ad8a635d53e6f4947f66129ac64eb5c427936efe475fc08c23b294269",
+      "partes": [
+        "partes/FumiPOS-Setup-11.4.exe.001",
+        "partes/FumiPOS-Setup-11.4.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-11.4.exe",
+      "sha256": "a3b0602a8f1eeeb5612aaeb9a806a4c3708a9157569df91e82bdba4a855ede11",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-11.4.exe.001",
+        "partes/FumiPOS-Terminal-Setup-11.4.exe.002"
+      ]
+    }
+  ]
+}
