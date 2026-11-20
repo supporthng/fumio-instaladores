@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v11.3",
+  "titulo": "Fumio 11.3",
+  "notas": "El número de conduce no se puede repetir; en Confirmar conduces los recibidos salen en verde y los repetidos en rojo",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-11.3.exe",
+      "sha256": "e25abce502f95462eb58900a99c5ebb18e99c46714dd4c94704f132e37cc4e74",
+      "partes": [
+        "partes/FumiPOS-Setup-11.3.exe.001",
+        "partes/FumiPOS-Setup-11.3.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-11.3.exe",
+      "sha256": "6c4b83dc76f0c606d1c65fbe01d362b363ffbf9896e112f77eedd4ea8ac11c3b",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-11.3.exe.001",
+        "partes/FumiPOS-Terminal-Setup-11.3.exe.002"
+      ]
+    }
+  ]
+}
