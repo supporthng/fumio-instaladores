@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v10.6",
+  "titulo": "Fumio 10.6",
+  "notas": "App del técnico: hoja de inspección y revisión de estaciones de roedores opcionales; la primera vez se cuentan las estaciones internas y externas",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-10.6.exe",
+      "sha256": "5f0738fca575667a42b779c883caf6a4ce29aa6264acbd0da33f3a5cc4b9f02d",
+      "partes": [
+        "partes/FumiPOS-Setup-10.6.exe.001",
+        "partes/FumiPOS-Setup-10.6.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-10.6.exe",
+      "sha256": "b50dea569607e67908f55d054686610bc08deb468904e04843cdc7e04e3c758a",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-10.6.exe.001",
+        "partes/FumiPOS-Terminal-Setup-10.6.exe.002"
+      ]
+    }
+  ]
+}
