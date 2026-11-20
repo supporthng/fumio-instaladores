@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v11.0",
+  "titulo": "Fumio 11.0",
+  "notas": "Técnicos flotantes con pago por servicio y Pagos a flotantes; factura con la razón social arriba, sin correo y con firma y sello al nivel del QR",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-11.0.exe",
+      "sha256": "0cd64af8dc78595d54b8f7d14b3807e93b0ce44f403145b3fce1dde48b370d20",
+      "partes": [
+        "partes/FumiPOS-Setup-11.0.exe.001",
+        "partes/FumiPOS-Setup-11.0.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-11.0.exe",
+      "sha256": "6e81dcce7d27af5f8dc758170778be024eee768d479eadd34892faecdf533b6c",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-11.0.exe.001",
+        "partes/FumiPOS-Terminal-Setup-11.0.exe.002"
+      ]
+    }
+  ]
+}
