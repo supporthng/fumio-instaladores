@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v11.8",
+  "titulo": "Fumio 11.8",
+  "notas": "Conduces agrupados por cliente, varios técnicos en Registrar realizado, Sin confirmar sin los ya confirmados y arreglo del conduce repetido",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-11.8.exe",
+      "sha256": "ada3128fc93a5c643edcba259fb5ccc80b40a5a9b1252837d820406bdeff984e",
+      "partes": [
+        "partes/FumiPOS-Setup-11.8.exe.001",
+        "partes/FumiPOS-Setup-11.8.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-11.8.exe",
+      "sha256": "887cb5cb9155c86c6822f4c1957786067bb9120d10fffe860110f7c6755fb56e",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-11.8.exe.001",
+        "partes/FumiPOS-Terminal-Setup-11.8.exe.002"
+      ]
+    }
+  ]
+}
