@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v10.7",
+  "titulo": "Fumio 10.7",
+  "notas": "Registrar servicios ya realizados (administrador), facturar servicios agrupados con las sucursales en las notas, y la sucursal arriba con la compañía debajo en las listas",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-10.7.exe",
+      "sha256": "9122abe1b3e2f5462f0fb80359f4af9843419e7958bc0bb0033e3d6733fa683a",
+      "partes": [
+        "partes/FumiPOS-Setup-10.7.exe.001",
+        "partes/FumiPOS-Setup-10.7.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-10.7.exe",
+      "sha256": "31f8b6bd267bea23866addd40f15cc84076c87a065eea03945f1282f9cbe25e9",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-10.7.exe.001",
+        "partes/FumiPOS-Terminal-Setup-10.7.exe.002"
+      ]
+    }
+  ]
+}
