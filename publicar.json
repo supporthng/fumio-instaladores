@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v11.6",
+  "titulo": "Fumio 11.6",
+  "notas": "La aplicación se ajusta sola a la resolución de la pantalla; Ctrl + y Ctrl - para agrandar o achicar, Ctrl 0 vuelve al ajuste automático",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-11.6.exe",
+      "sha256": "dce2566ec29fcf616c19462e866984c9cccd1b582482273d0b0b3016b412aa74",
+      "partes": [
+        "partes/FumiPOS-Setup-11.6.exe.001",
+        "partes/FumiPOS-Setup-11.6.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-11.6.exe",
+      "sha256": "6d5b2490b1ad7c641c705ff69ff8d9851280ca566998976ec38388d97b422819",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-11.6.exe.001",
+        "partes/FumiPOS-Terminal-Setup-11.6.exe.002"
+      ]
+    }
+  ]
+}
