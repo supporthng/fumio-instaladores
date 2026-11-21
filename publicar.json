@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v12.1",
+  "titulo": "Fumio 12.1",
+  "notas": "Aviso de choque de hora: el mismo técnico con dos servicios a la misma hora en lugares distintos",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-12.1.exe",
+      "sha256": "cb0bd6ce749d287b1d62eee81dc33f906fbcb2d77df2f4c9176c9e93eb101376",
+      "partes": [
+        "partes/FumiPOS-Setup-12.1.exe.001",
+        "partes/FumiPOS-Setup-12.1.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-12.1.exe",
+      "sha256": "6868e5b7220b9aae97c1fd15a2343caa3751682441f3c64e7a07b1e44a126819",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-12.1.exe.001",
+        "partes/FumiPOS-Terminal-Setup-12.1.exe.002"
+      ]
+    }
+  ]
+}
