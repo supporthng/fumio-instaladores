@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v12.2",
+  "titulo": "Fumio 12.2",
+  "notas": "Confirmar conduces: también los servicios que el técnico no marcó, repetidos bien detectados y sin confirmar sin número",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-12.2.exe",
+      "sha256": "b9522c523b07fb2f0a478c4f0eec49f7ab6f321faf5ee66912f7f219badfb449",
+      "partes": [
+        "partes/FumiPOS-Setup-12.2.exe.001",
+        "partes/FumiPOS-Setup-12.2.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-12.2.exe",
+      "sha256": "b022de946d7c99574b2b8ab9c2d513a39ba262525f1a218e8dfd74153e5f788f",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-12.2.exe.001",
+        "partes/FumiPOS-Terminal-Setup-12.2.exe.002"
+      ]
+    }
+  ]
+}
