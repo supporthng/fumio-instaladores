@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v12.0",
+  "titulo": "Fumio 12.0",
+  "notas": "Los técnicos ya no se desconectan: la sesión dura un año y no se cierra por mala señal",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-12.0.exe",
+      "sha256": "d30c3e08cd2fc00c6669bcb81aefa6a80f0df82b816e81abe271378956642b53",
+      "partes": [
+        "partes/FumiPOS-Setup-12.0.exe.001",
+        "partes/FumiPOS-Setup-12.0.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-12.0.exe",
+      "sha256": "25264b4a875b5ac1c154a42c0a15778f5b7fa392f6b7ac32aa09fdc1ea9c8c14",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-12.0.exe.001",
+        "partes/FumiPOS-Terminal-Setup-12.0.exe.002"
+      ]
+    }
+  ]
+}
