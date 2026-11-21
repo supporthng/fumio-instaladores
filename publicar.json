@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v11.9",
+  "titulo": "Fumio 11.9",
+  "notas": "Nuevo módulo Estadísticas (general, servicios, técnicos, clientes, dinero y zonas) y la app más rápida con muchos servicios",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-11.9.exe",
+      "sha256": "3917962b4ea368c21133739b957b53b7d241ef67fadfa13c0903e21942f65c97",
+      "partes": [
+        "partes/FumiPOS-Setup-11.9.exe.001",
+        "partes/FumiPOS-Setup-11.9.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-11.9.exe",
+      "sha256": "e4d200bc5a80a37029f424d8624218d325f12dc31a1bbbf710d2452b524f8847",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-11.9.exe.001",
+        "partes/FumiPOS-Terminal-Setup-11.9.exe.002"
+      ]
+    }
+  ]
+}
