@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v12.8",
+  "titulo": "Fumio 12.8",
+  "notas": "Correo propio de cada usuario: lo que envía sale con su cuenta (Mi cuenta)",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-12.8.exe",
+      "sha256": "fe479bd49ce31f485e5e75e87796eab67b6b80d89957d21edf2da50f81848cfa",
+      "partes": [
+        "partes/FumiPOS-Setup-12.8.exe.001",
+        "partes/FumiPOS-Setup-12.8.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-12.8.exe",
+      "sha256": "45a668fe49eda3ae316fc2cc830cd85dcd1f9976ce15768e42067281516376ab",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-12.8.exe.001",
+        "partes/FumiPOS-Terminal-Setup-12.8.exe.002"
+      ]
+    }
+  ]
+}
