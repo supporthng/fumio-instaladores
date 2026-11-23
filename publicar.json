@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v12.7",
+  "titulo": "Fumio 12.7",
+  "notas": "Al emitir, si el número ya lo tiene otra factura, dice cuál y cómo liberarlo",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-12.7.exe",
+      "sha256": "0c4a2e4fbab4032d283fdcf2f0ad0820d37dbb82b49d713dd974f0db5da91b7f",
+      "partes": [
+        "partes/FumiPOS-Setup-12.7.exe.001",
+        "partes/FumiPOS-Setup-12.7.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-12.7.exe",
+      "sha256": "1e1b7935e699eaf901749d0373bc1226a6658e33dd324814dfdb3903256a67c5",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-12.7.exe.001",
+        "partes/FumiPOS-Terminal-Setup-12.7.exe.002"
+      ]
+    }
+  ]
+}
