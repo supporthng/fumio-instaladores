@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v12.4",
+  "titulo": "Fumio 12.4",
+  "notas": "Factura: sucursales trabajadas debajo del servicio (con veces por sucursal), nombre fijo en líneas del catálogo",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-12.4.exe",
+      "sha256": "431ffadd3dccce8a6f561ee0ca92e36b5fe972cbcacb39bdc32d9602b7ec3211",
+      "partes": [
+        "partes/FumiPOS-Setup-12.4.exe.001",
+        "partes/FumiPOS-Setup-12.4.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-12.4.exe",
+      "sha256": "10d5f6eb0ca46f8d9cea90fc1ba4124058e4853df135244ec2551f182ed5f960",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-12.4.exe.001",
+        "partes/FumiPOS-Terminal-Setup-12.4.exe.002"
+      ]
+    }
+  ]
+}
