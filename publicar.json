@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v12.5",
+  "titulo": "Fumio 12.5",
+  "notas": "Facturas: Guardar borrador y Duplicar",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-12.5.exe",
+      "sha256": "a916a2fb56bf4c9670c7d58d1675d862e7da41e7d00270fead134f5a3e33d9ec",
+      "partes": [
+        "partes/FumiPOS-Setup-12.5.exe.001",
+        "partes/FumiPOS-Setup-12.5.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-12.5.exe",
+      "sha256": "1c0195ea49302afdb9b4e9c4e8f60780c0d8ae59596b2986da6ac6454b1c06fe",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-12.5.exe.001",
+        "partes/FumiPOS-Terminal-Setup-12.5.exe.002"
+      ]
+    }
+  ]
+}
