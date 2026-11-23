@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v13.1",
+  "titulo": "Fumio 13.1",
+  "notas": "Confirmar conduces: editar el servicio (fecha, hora, técnico, servicios y cantidades)",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-13.1.exe",
+      "sha256": "8d67d2d7a38c3e8823ccea9f59c568dd590db4c049924f129a84365ab11fcd69",
+      "partes": [
+        "partes/FumiPOS-Setup-13.1.exe.001",
+        "partes/FumiPOS-Setup-13.1.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-13.1.exe",
+      "sha256": "ebea6cdb9b0307265232847e8a89a2c762efac4c9225c1d3f35ecb0c966ac77f",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-13.1.exe.001",
+        "partes/FumiPOS-Terminal-Setup-13.1.exe.002"
+      ]
+    }
+  ]
+}
