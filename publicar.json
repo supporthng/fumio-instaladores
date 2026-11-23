@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v13.0",
+  "titulo": "Fumio 13.0",
+  "notas": "Facturas: cargar conduces escaneados (PDF o foto), adjuntos al correo y descargables desde el enlace · Logo más grande · Confirmar conduces: botón «No realizado»",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-13.0.exe",
+      "sha256": "5c7cb14ed9bd00dbc77b7ca7e9cd942d933087e35f68cfb900911d7f023bd65d",
+      "partes": [
+        "partes/FumiPOS-Setup-13.0.exe.001",
+        "partes/FumiPOS-Setup-13.0.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-13.0.exe",
+      "sha256": "684a33fb15af1cd2c77adb10270ade26afcac90128cee4fd4e0053f5563361f1",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-13.0.exe.001",
+        "partes/FumiPOS-Terminal-Setup-13.0.exe.002"
+      ]
+    }
+  ]
+}
