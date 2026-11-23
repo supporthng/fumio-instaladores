@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v12.9",
+  "titulo": "Fumio 12.9",
+  "notas": "Facturas: sucursales en columnas, números de conduce al pie y enlace público para WhatsApp y correo · Confirmar conduces: Enter confirma · Terminales: avisos de actualización solo al abrir",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-12.9.exe",
+      "sha256": "72cb0e8a6a7bf50aa3c3a82c4be34e8e486eee82d6bf28844d6124871b6a8bbb",
+      "partes": [
+        "partes/FumiPOS-Setup-12.9.exe.001",
+        "partes/FumiPOS-Setup-12.9.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-12.9.exe",
+      "sha256": "0fb6158edd1efa1d05e2fd51a4443ecbfc8e9a510e4ffeef0d3cf193c485ba89",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-12.9.exe.001",
+        "partes/FumiPOS-Terminal-Setup-12.9.exe.002"
+      ]
+    }
+  ]
+}
