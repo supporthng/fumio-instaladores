@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v13.2",
+  "titulo": "Fumio 13.2",
+  "notas": "Servicios que no llevan conduce (levantamientos): no salen en Confirmar conduces y el técnico no tiene que poner el número",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-13.2.exe",
+      "sha256": "05bdd299b87c085586012d8c5dd89a1785c9342435793005d9de1baf9f7aafb4",
+      "partes": [
+        "partes/FumiPOS-Setup-13.2.exe.001",
+        "partes/FumiPOS-Setup-13.2.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-13.2.exe",
+      "sha256": "276245623c920244b763366da1277643a930dd9ea477f64cfd36ee41f5484ec8",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-13.2.exe.001",
+        "partes/FumiPOS-Terminal-Setup-13.2.exe.002"
+      ]
+    }
+  ]
+}
