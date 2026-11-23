@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v12.3",
+  "titulo": "Fumio 12.3",
+  "notas": "Registrar realizado: cantidad en cada servicio (pasa a la factura)",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-12.3.exe",
+      "sha256": "280fe0cf2ff9f85e8fd4443bb576df3c5a4a2d65dc8495056824a349a7612798",
+      "partes": [
+        "partes/FumiPOS-Setup-12.3.exe.001",
+        "partes/FumiPOS-Setup-12.3.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-12.3.exe",
+      "sha256": "a3acfbf22f9a25fc1a502385c6c5281b63a39e71cdadd131bea4fd87103420d8",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-12.3.exe.001",
+        "partes/FumiPOS-Terminal-Setup-12.3.exe.002"
+      ]
+    }
+  ]
+}
