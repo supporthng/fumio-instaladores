@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v13.3",
+  "titulo": "Fumio 13.3",
+  "notas": "e-CF recibidos de prueba de la DGII: ya no salen en la lista y se pueden borrar en Borrar documentos de prueba",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-13.3.exe",
+      "sha256": "9af3f70910da9da1325e2774ed11975d89dd0e083d3f8431f6415dbf40f97359",
+      "partes": [
+        "partes/FumiPOS-Setup-13.3.exe.001",
+        "partes/FumiPOS-Setup-13.3.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-13.3.exe",
+      "sha256": "552cb0959a2b3b1f010cab089ca6c9e980d9734d1abecc3c015ed01bf76678b8",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-13.3.exe.001",
+        "partes/FumiPOS-Terminal-Setup-13.3.exe.002"
+      ]
+    }
+  ]
+}
