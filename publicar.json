@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v12.6",
+  "titulo": "Fumio 12.6",
+  "notas": "Facturas: barra de botones (crear, modificar, ver, imprimir, duplicar, pagar, anular, correo, WhatsApp) y borrar documentos de prueba",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-12.6.exe",
+      "sha256": "1c067e73176789acde515c0e8dac3e5ac7ffc37f7147dabf2864880f316e2fa6",
+      "partes": [
+        "partes/FumiPOS-Setup-12.6.exe.001",
+        "partes/FumiPOS-Setup-12.6.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-12.6.exe",
+      "sha256": "d4a16070e1f072ab940393d27e328aefbf7417a5f9643d417c9beec5cc832c34",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-12.6.exe.001",
+        "partes/FumiPOS-Terminal-Setup-12.6.exe.002"
+      ]
+    }
+  ]
+}
