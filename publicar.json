@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v13.4",
+  "titulo": "Fumio 13.4",
+  "notas": "Reporte de e-CF emitidos y recibidos por mes (Excel) · Pasar e-CF recibidos aprobados a gastos para el 606",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-13.4.exe",
+      "sha256": "f86775155fded273ca32c4e64e0fa45d465538e2885b7bc0ff2e2c6cafaf12e1",
+      "partes": [
+        "partes/FumiPOS-Setup-13.4.exe.001",
+        "partes/FumiPOS-Setup-13.4.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-13.4.exe",
+      "sha256": "8b21b8abf67c2ed8f0b436e31a841523253dc5ad4a6c9fa68606282c26998212",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-13.4.exe.001",
+        "partes/FumiPOS-Terminal-Setup-13.4.exe.002"
+      ]
+    }
+  ]
+}
