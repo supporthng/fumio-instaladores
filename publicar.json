@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v13.6",
+  "titulo": "Fumio 13.6",
+  "notas": "Enviar factura por correo: ventana para confirmar los correos del cliente y agregar otros · Equipos de clientes (opcional): registro por sucursal, revisión en la app del técnico e historial",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-13.6.exe",
+      "sha256": "1686668e63e46478c11495b77a0b4bbc724864d576bf0570c695c66914aa12f0",
+      "partes": [
+        "partes/FumiPOS-Setup-13.6.exe.001",
+        "partes/FumiPOS-Setup-13.6.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-13.6.exe",
+      "sha256": "e53854aa2282a1a952f2d5f37ea65fcbd768ee7721616b23953248bd81452c47",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-13.6.exe.001",
+        "partes/FumiPOS-Terminal-Setup-13.6.exe.002"
+      ]
+    }
+  ]
+}
