@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v13.5",
+  "titulo": "Fumio 13.5",
+  "notas": "Correo: botón «Guardar y probar conexión» y mensajes más claros cuando Microsoft 365 rechaza el envío",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-13.5.exe",
+      "sha256": "a109ca29f6cbfe00633035fe795ea17b0bdc1854a1d6ea7e34fa4a9df0034679",
+      "partes": [
+        "partes/FumiPOS-Setup-13.5.exe.001",
+        "partes/FumiPOS-Setup-13.5.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-13.5.exe",
+      "sha256": "b8b1bdc7b474b9e21b0f8fbf0b4f32002e4fb746c9255a51f9f5f911fbe2efb8",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-13.5.exe.001",
+        "partes/FumiPOS-Terminal-Setup-13.5.exe.002"
+      ]
+    }
+  ]
+}
