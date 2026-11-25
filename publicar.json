@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v14.9",
+  "titulo": "Fumio 14.9",
+  "notas": "Cuadro pequeño con el avance de actualizaciones y reconexiones (las terminales esperan al servidor sin cambiar de pantalla); el correo de facturas recuerda los correos del último envío a cada cliente",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-14.9.exe",
+      "sha256": "5bbff367c8e8ed9f0c579128cab23c75b8cda61c2c05637fa30e92df9a9e557e",
+      "partes": [
+        "partes/FumiPOS-Setup-14.9.exe.001",
+        "partes/FumiPOS-Setup-14.9.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-14.9.exe",
+      "sha256": "7563db26055b1c5453086e6f6abd4b7578f87cdc715283ac00067a1bce12167f",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-14.9.exe.001",
+        "partes/FumiPOS-Terminal-Setup-14.9.exe.002"
+      ]
+    }
+  ]
+}
