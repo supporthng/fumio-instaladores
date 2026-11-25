@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v14.6",
+  "titulo": "Fumio 14.6",
+  "notas": "Órdenes de taller (recepción con fotos y firma, presupuesto que el cliente aprueba por WhatsApp, tablero, próximo servicio), Caja → Por cobrar y Venta rápida a pantalla completa",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-14.6.exe",
+      "sha256": "6eb7c3394ef03c68d716cb1f4f3de7da65278c9551bddbc15395bf0224d34fe1",
+      "partes": [
+        "partes/FumiPOS-Setup-14.6.exe.001",
+        "partes/FumiPOS-Setup-14.6.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-14.6.exe",
+      "sha256": "5c0922270279baad2cd95f73709a52eaf40df5749b9e16f8d846fffc6332cf29",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-14.6.exe.001",
+        "partes/FumiPOS-Terminal-Setup-14.6.exe.002"
+      ]
+    }
+  ]
+}
