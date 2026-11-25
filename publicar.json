@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v14.1",
+  "titulo": "Fumio 14.1",
+  "notas": "Tipo de negocio en las pantallas de la oficina: menú, encabezado, Confirmar órdenes de trabajo, inicio y agendar",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-14.1.exe",
+      "sha256": "f8c87b5d7569a871ab8d231a503b8450548dddf93954ea1a3a2a4cb16f08b5b0",
+      "partes": [
+        "partes/FumiPOS-Setup-14.1.exe.001",
+        "partes/FumiPOS-Setup-14.1.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-14.1.exe",
+      "sha256": "67f1a84ef7cb3086d11b7c31484865d44a66a4ab90339ae3f4a0b441b6c6629b",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-14.1.exe.001",
+        "partes/FumiPOS-Terminal-Setup-14.1.exe.002"
+      ]
+    }
+  ]
+}
