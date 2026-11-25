@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v14.7",
+  "titulo": "Fumio 14.7",
+  "notas": "Correo de facturas: mandar varias facturas del mismo cliente en un solo correo, con sus PDF y conduces",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-14.7.exe",
+      "sha256": "92ac73aa7930df58b85731f5e984d297fb8f4b4ff3f7944c01ea87f7da229229",
+      "partes": [
+        "partes/FumiPOS-Setup-14.7.exe.001",
+        "partes/FumiPOS-Setup-14.7.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-14.7.exe",
+      "sha256": "e8f3399c3a6b3878c21d4fd12b2b7e26298c7e8f04f0ff83bffe1fab6e29621d",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-14.7.exe.001",
+        "partes/FumiPOS-Terminal-Setup-14.7.exe.002"
+      ]
+    }
+  ]
+}
