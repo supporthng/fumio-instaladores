@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v13.8",
+  "titulo": "Fumio 13.8",
+  "notas": "Mantenimiento preventivo de equipos (opcional): plan por días u horas de uso, próximo mantenimiento y programar la visita",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-13.8.exe",
+      "sha256": "d03c6b03c992605811e2cb2e5044d89553df1b40bb7d911dc5306a801353a5d6",
+      "partes": [
+        "partes/FumiPOS-Setup-13.8.exe.001",
+        "partes/FumiPOS-Setup-13.8.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-13.8.exe",
+      "sha256": "216c65eab366a9bb9de4dfeccd6780f0079233c02db3cd56cb7df510f0ea5c9b",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-13.8.exe.001",
+        "partes/FumiPOS-Terminal-Setup-13.8.exe.002"
+      ]
+    }
+  ]
+}
