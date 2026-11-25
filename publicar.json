@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v14.3",
+  "titulo": "Fumio 14.3",
+  "notas": "Proyectos de instalación: de la cotización a la entrega, con etapas, material instalado, visitas, anticipos y acta firmada por el cliente",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-14.3.exe",
+      "sha256": "7dee0b43e8b61678e5106a105edd760ab58d8d0ddb36990179aa7bb73982de07",
+      "partes": [
+        "partes/FumiPOS-Setup-14.3.exe.001",
+        "partes/FumiPOS-Setup-14.3.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-14.3.exe",
+      "sha256": "cdaaed8207ed9f899806629a4224aaf6c45c5f9892d8bed975a429692f68eec6",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-14.3.exe.001",
+        "partes/FumiPOS-Terminal-Setup-14.3.exe.002"
+      ]
+    }
+  ]
+}
