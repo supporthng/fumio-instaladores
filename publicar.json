@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v14.2",
+  "titulo": "Fumio 14.2",
+  "notas": "Correo de Microsoft 365 con «Iniciar sesión con Microsoft» (sin contraseña ni SMTP autenticado)",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-14.2.exe",
+      "sha256": "453bd95276b3adf379d0ab12527aec7350fce554b05c3b26b383550aea8b5b06",
+      "partes": [
+        "partes/FumiPOS-Setup-14.2.exe.001",
+        "partes/FumiPOS-Setup-14.2.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-14.2.exe",
+      "sha256": "a238eb647333c65d325c506a31babd0eb83ffcd09d5dcf5dcc0bbe214f40f35a",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-14.2.exe.001",
+        "partes/FumiPOS-Terminal-Setup-14.2.exe.002"
+      ]
+    }
+  ]
+}
