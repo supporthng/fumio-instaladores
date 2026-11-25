@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v14.8",
+  "titulo": "Fumio 14.8",
+  "notas": "La pantalla «Sin servidor» vuelve sola a FumiPOS cuando el servidor responde; el botón de actualizar dice «Instalar la versión» cuando ya hay una nueva",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-14.8.exe",
+      "sha256": "61ccd44e75785842deab4325d728171d830002094cab1a30570bf0095b05fbde",
+      "partes": [
+        "partes/FumiPOS-Setup-14.8.exe.001",
+        "partes/FumiPOS-Setup-14.8.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-14.8.exe",
+      "sha256": "6575719f58ebe58f5229ead55939da3ca1d4317545a054f7154dbfe800701bab",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-14.8.exe.001",
+        "partes/FumiPOS-Terminal-Setup-14.8.exe.002"
+      ]
+    }
+  ]
+}
