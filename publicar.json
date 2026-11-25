@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v15.0",
+  "titulo": "Fumio 15.0",
+  "notas": "Modo prueba se oculta y se bloquea cuando la empresa ya trabaja con datos reales",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-15.0.exe",
+      "sha256": "3853cb5d32f7f411cbdda107e005c2c7c8ed23a9f08b322794e5237e7bc27760",
+      "partes": [
+        "partes/FumiPOS-Setup-15.0.exe.001",
+        "partes/FumiPOS-Setup-15.0.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-15.0.exe",
+      "sha256": "4b6ca7e33606c3d7dfff9af82abc1b5ddeec9f2a5d90bcdc180cf50d61c55ce7",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-15.0.exe.001",
+        "partes/FumiPOS-Terminal-Setup-15.0.exe.002"
+      ]
+    }
+  ]
+}
