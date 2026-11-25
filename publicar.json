@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v14.5",
+  "titulo": "Fumio 14.5",
+  "notas": "Revisión general: la pantalla Saldos iniciales ya no se traba con muchos saldos (búsqueda, filtro y páginas)",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-14.5.exe",
+      "sha256": "14235e714bb0a21b88c0a0e6fe09cce4b351088659f8709242afa1663c128dcf",
+      "partes": [
+        "partes/FumiPOS-Setup-14.5.exe.001",
+        "partes/FumiPOS-Setup-14.5.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-14.5.exe",
+      "sha256": "21f1e9a6f380a76adc745e8ba9bf69087382c9cf4fc68fb0b611d3ce64164b83",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-14.5.exe.001",
+        "partes/FumiPOS-Terminal-Setup-14.5.exe.002"
+      ]
+    }
+  ]
+}
