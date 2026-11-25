@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v13.7",
+  "titulo": "Fumio 13.7",
+  "notas": "Averías (opcional): registrar fallas, asignar al técnico y medir tiempos · Repuestos que se cobran al usarlos · Servicios que no piden productos",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-13.7.exe",
+      "sha256": "2cfdb1a7afc0e86ac7ba431ab9f496a30a11f2d03a97dc4f65baccafbc41a56d",
+      "partes": [
+        "partes/FumiPOS-Setup-13.7.exe.001",
+        "partes/FumiPOS-Setup-13.7.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-13.7.exe",
+      "sha256": "d63c1a54b090fb1d821e643f1866fc6f62a476822746bd06ef1de2d9d2af34c1",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-13.7.exe.001",
+        "partes/FumiPOS-Terminal-Setup-13.7.exe.002"
+      ]
+    }
+  ]
+}
