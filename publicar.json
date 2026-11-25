@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v14.0",
+  "titulo": "Fumio 14.0",
+  "notas": "Tipo de negocio: nombres de la constancia y el conduce según el negocio (fumigación, mantenimiento de equipos, limpieza u otro)",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-14.0.exe",
+      "sha256": "08d75a7128ea96076211bfcf5c6b04dab1537064c79a023aeb497420eae80839",
+      "partes": [
+        "partes/FumiPOS-Setup-14.0.exe.001",
+        "partes/FumiPOS-Setup-14.0.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-14.0.exe",
+      "sha256": "d1f374e46794f0a7af083e4a6b80bfab26384dd38297672f00e64b5790495c50",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-14.0.exe.001",
+        "partes/FumiPOS-Terminal-Setup-14.0.exe.002"
+      ]
+    }
+  ]
+}
