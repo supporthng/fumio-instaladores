@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v14.4",
+  "titulo": "Fumio 14.4",
+  "notas": "Vehículos de clientes: placa, marca y modelo, se eligen al agendar, el técnico marca los atendidos con kilometraje e historial por vehículo",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-14.4.exe",
+      "sha256": "65b87a11e8e875e2aa52f9bf84dcc541890391d1e9c556869cbbbe77a9f2a418",
+      "partes": [
+        "partes/FumiPOS-Setup-14.4.exe.001",
+        "partes/FumiPOS-Setup-14.4.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-14.4.exe",
+      "sha256": "a01bc833cd7b3e269b0ae7aea16d079161550e564bcea6861de2f0b41d476828",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-14.4.exe.001",
+        "partes/FumiPOS-Terminal-Setup-14.4.exe.002"
+      ]
+    }
+  ]
+}
