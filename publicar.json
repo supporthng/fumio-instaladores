@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v13.9",
+  "titulo": "Fumio 13.9",
+  "notas": "Código QR de cada equipo (etiquetas y ficha pública con reporte de fallas) · Aviso al cliente cuando se acerca el mantenimiento",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-13.9.exe",
+      "sha256": "4ee3e3b7e482bb3453ad51fab76ca85b7f162c57b6569bdb4b20ee0378c9ca08",
+      "partes": [
+        "partes/FumiPOS-Setup-13.9.exe.001",
+        "partes/FumiPOS-Setup-13.9.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-13.9.exe",
+      "sha256": "3e9b6ec81dc035bf4ee7bd0f08e71443b19163765e6450cca7db8ea2cfce8dd8",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-13.9.exe.001",
+        "partes/FumiPOS-Terminal-Setup-13.9.exe.002"
+      ]
+    }
+  ]
+}
