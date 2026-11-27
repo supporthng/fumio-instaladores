@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v15.1",
+  "titulo": "Fumio 15.1",
+  "notas": "Clave nueva de actualizaciones (instalar a mano una vez). Flotilla: editar cargas y corregir odómetro. Caja: servicios de contado por cobrar. Por facturar: número de conduce. Lema de la marca.",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-15.1.exe",
+      "sha256": "38ad402d7f76e1586a34965a6ad01b9a0f1f622aa77bbf5eaaf2466ecdb0f0ab",
+      "partes": [
+        "partes/FumiPOS-Setup-15.1.exe.001",
+        "partes/FumiPOS-Setup-15.1.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-15.1.exe",
+      "sha256": "78627cc7f3c3b9b9d65cd69875be27f01ccd67e0fa057c97c1cbb53bb9b1d11e",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-15.1.exe.001",
+        "partes/FumiPOS-Terminal-Setup-15.1.exe.002"
+      ]
+    }
+  ]
+}
