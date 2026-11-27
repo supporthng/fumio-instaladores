@@ -1,0 +1,23 @@
+{
+  "etiqueta": "v15.3",
+  "titulo": "Fumio 15.3",
+  "notas": "Acceso por internet: el túnel conecta por http2 (redes que bloquean UDP). Servidor: aplicar ahora una actualización que quedó para la noche.",
+  "archivos": [
+    {
+      "nombre": "FumiPOS-Setup-15.3.exe",
+      "sha256": "779aad0353aedd148e4970cef59fbd2d5081754ff9b58eb01338ec3d4f8b588a",
+      "partes": [
+        "partes/FumiPOS-Setup-15.3.exe.001",
+        "partes/FumiPOS-Setup-15.3.exe.002"
+      ]
+    },
+    {
+      "nombre": "FumiPOS-Terminal-Setup-15.3.exe",
+      "sha256": "f1bcaf6c9df09d188bac7b2b709b4d914deda3722ac3fe371cc0eee71edb1c79",
+      "partes": [
+        "partes/FumiPOS-Terminal-Setup-15.3.exe.001",
+        "partes/FumiPOS-Terminal-Setup-15.3.exe.002"
+      ]
+    }
+  ]
+}
